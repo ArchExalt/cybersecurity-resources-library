@@ -110,6 +110,8 @@ Compilations:
 - https://github.com/hhhrrrttt222111/Ethical-Hacking-Tools
 - https://github.com/topics/mrrobot
 - https://github.com/orgs/bellingcat/repositories?type=all
+- https://www.lopseg.com.br/osint
+- https://github.com/OWASP/wstg/blob/master/document/6-Appendix/A-Testing_Tools_Resource.md
 
 Foreign:
 - https://molfar.com/useful-apps-registers
@@ -156,3 +158,28 @@ SQL:
 IMSI:
 - https://github.com/Oros42/IMSI-catcher
 - https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector
+
+System tools:
+- https://www.nirsoft.net
+- https://learn.microsoft.com/en-us/sysinternals/downloads/
+- https://www.systemtools.com/somarsoft/index.html
+- https://sectools.org
+- https://labs.ece.uw.edu/nsl/students/alomair/LB-Arabic/general/forensic-tools/index.html
+
+Various CTF tools:
+- https://crackstation.net - password hash cracker
+- https://www.boxentriq.com/code-breaking/cipher-identifier
+- https://gchq.github.io/CyberChef/
+- https://www.cachesleuth.com/multidecoder/
+- https://www.dcode.fr/en
+- https://planetcalc.com/2468/ - vigenere cipher
+- https://findhow.org/5076-shifr-vizhenera-onlajn.html
+- https://databorder.com/transfer/morse-sound-receiver/
+- https://dogbolt.org - decompiler explorer
+- https://www.base64decode.org
+- https://calculatorium.ru/cryptography/atbash-cipher
+- https://tools.icoder.uz - steganography
+- https://29a.ch/photo-forensics/#forensic-magnifier - metadata
+- https://exif.tools
+- https://emn178.github.io/online-tools/md5_checksum.html
+- https://www.asciitohex.com
