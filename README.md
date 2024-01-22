@@ -155,6 +155,9 @@ Lock Screen:
 SQL:
 - https://github.com/sqlmapproject/sqlmap
 
+Password compiler:
+- https://github.com/D4Vinci/elpscrk
+
 IMSI:
 - https://github.com/Oros42/IMSI-catcher
 - https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector
