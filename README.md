@@ -158,9 +158,15 @@ SQL:
 Password compiler:
 - https://github.com/D4Vinci/elpscrk
 
+Reverse shell:
+- https://github.com/mandiant/flare-vm
+
 IMSI:
 - https://github.com/Oros42/IMSI-catcher
 - https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector
+
+Mobile:
+- https://mas.owasp.org/MASTG/
 
 System tools:
 - https://www.nirsoft.net
@@ -186,3 +192,29 @@ Various CTF tools:
 - https://exif.tools
 - https://emn178.github.io/online-tools/md5_checksum.html
 - https://www.asciitohex.com
+
+Misc:
+- [Subnet Calculator](https://www.davidc.net/sites/default/subnets/subnets.html)
+- [Free Web Proxy](https://www.proxysite.com)
+- [Encrypted File Sharing](https://sendfilesencrypted.com)
+- [Accounts Removal](https://justdeleteme.xyz)
+- [HaveI Been Pwned](https://haveibeenpwned.com)
+- https://spyware.neocities.org/articles/
+- https://www.securemessagingapps.com
+
+# Курси та навчання
+- https://github.com/brootware/awesome-cyber-security-university
+- https://roadmap.sh/cyber-security
+- https://www.hackthebox.com
+- https://tryhackme.com
+- https://sourcing.games
+- https://owasp.org/www-project-top-ten/
+- https://cryptopals.com
+- https://portswigger.net/web-security
+- https://pentesterlab.com/exercises/web_for_pentester/course
+- https://pentesterlab.com/exercises/web_for_pentester_II/course
+- https://picoctf.org/index.html#picogym
+- https://www.hacksplaining.com/lessons
+- [Free ISO/IEC](https://t.me/isoforfree)
+- [Top 100 Free Red Team Tools](https://www.codelivly.com/master-the-art-of-red-teaming-with-the-top-100-free-red-team-tools/)
+- [Metasploit Cheat Sheet](https://www.codelivly.com/mastering-metasploit-the-ultimate-cheat-sheet-for-exploit-development-post-exploitation-and-more)
