@@ -197,7 +197,9 @@ Misc:
 - [Subnet Calculator](https://www.davidc.net/sites/default/subnets/subnets.html)
 - [Free Web Proxy](https://www.proxysite.com)
 - [Encrypted File Sharing](https://sendfilesencrypted.com)
+- [Malware Analysis](https://www.virustotal.com/gui/home/upload)
 - [Accounts Removal](https://justdeleteme.xyz)
+- [MalwareBytes](https://www.malwarebytes.com)
 - [HaveI Been Pwned](https://haveibeenpwned.com)
 - https://spyware.neocities.org/articles/
 - https://www.securemessagingapps.com
@@ -215,6 +217,7 @@ Misc:
 - https://pentesterlab.com/exercises/web_for_pentester_II/course
 - https://picoctf.org/index.html#picogym
 - https://www.hacksplaining.com/lessons
+- [HackTricks](https://book.hacktricks.xyz/welcome/readme)
 - [Free ISO/IEC](https://t.me/isoforfree)
 - [Top 100 Free Red Team Tools](https://www.codelivly.com/master-the-art-of-red-teaming-with-the-top-100-free-red-team-tools/)
 - [Metasploit Cheat Sheet](https://www.codelivly.com/mastering-metasploit-the-ultimate-cheat-sheet-for-exploit-development-post-exploitation-and-more)
