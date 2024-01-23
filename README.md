@@ -155,8 +155,10 @@ Lock Screen:
 SQL:
 - https://github.com/sqlmapproject/sqlmap
 
-Password compiler:
+Wordlist compiler:
 - https://github.com/D4Vinci/elpscrk
+- https://github.com/digininja/CeWL
+- https://github.com/Mebus/cupp
 
 Reverse shell:
 - https://github.com/mandiant/flare-vm
