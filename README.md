@@ -201,6 +201,7 @@ Misc:
 - [Accounts Removal](https://justdeleteme.xyz)
 - [MalwareBytes](https://www.malwarebytes.com)
 - [HaveI Been Pwned](https://haveibeenpwned.com)
+- [Darknet OPSEC 2022](https://youtu.be/Dxbsx1GrLSY?si=IKQ95UMUNvuJpr0t)
 - https://spyware.neocities.org/articles/
 - https://www.securemessagingapps.com
 
