@@ -220,6 +220,7 @@ Misc:
 - https://pentesterlab.com/exercises/web_for_pentester_II/course
 - https://picoctf.org/index.html#picogym
 - https://www.hacksplaining.com/lessons
+- [Kali Linux Revealed](https://upload.wikimedia.org/wikipedia/commons/5/5d/Kali-Linux-Revealed-2021-edition.pdf)
 - [HackTricks](https://book.hacktricks.xyz/welcome/readme)
 - [Free ISO/IEC](https://t.me/isoforfree)
 - [Top 100 Free Red Team Tools](https://www.codelivly.com/master-the-art-of-red-teaming-with-the-top-100-free-red-team-tools/)
