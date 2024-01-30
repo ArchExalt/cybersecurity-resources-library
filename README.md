@@ -129,7 +129,7 @@ Darknet:
 
 Google:
 - https://github.com/opsdisk/metagoofil 
-- site:pinterest.com inurl:username keywords
+- Google Dorking: site: inurl: intitle: intext: link: daterange: numrange: author: inanchor:
 
 Opendata:
 - https://www.publicdatacheck.com
@@ -206,6 +206,7 @@ Misc:
 - [Darknet OPSEC 2022](https://youtu.be/Dxbsx1GrLSY?si=IKQ95UMUNvuJpr0t)
 - https://spyware.neocities.org/articles/
 - https://www.securemessagingapps.com
+- Windows GodMode: GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}
 
 # Курси та навчання
 - https://github.com/brootware/awesome-cyber-security-university
