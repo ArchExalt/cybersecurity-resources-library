@@ -129,7 +129,7 @@ Darknet:
 
 Google:
 - https://github.com/opsdisk/metagoofil 
-- Google Dorking: site: inurl: intitle: intext: link: daterange: numrange: author: inanchor:
+- Google Dorking: site: inurl: intitle: intext: link: daterange: numrange: author: inanchor: cache:
 
 Opendata:
 - https://www.publicdatacheck.com
