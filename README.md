@@ -203,10 +203,11 @@ Misc:
 - [Malware Analysis](https://www.virustotal.com/gui/home/upload)
 - [Accounts Removal](https://justdeleteme.xyz)
 - [MalwareBytes](https://www.malwarebytes.com)
-- [HaveI Been Pwned](https://haveibeenpwned.com)
+- [Have I Been Pwned](https://haveibeenpwned.com)
 - [Darknet OPSEC 2022](https://youtu.be/Dxbsx1GrLSY?si=IKQ95UMUNvuJpr0t)
 - https://spyware.neocities.org/articles/
 - https://www.securemessagingapps.com
+- [Windows PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
 - Windows GodMode: GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}
 
 # Курси та навчання
