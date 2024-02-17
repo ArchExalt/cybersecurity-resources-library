@@ -208,6 +208,8 @@ Misc:
 - https://spyware.neocities.org/articles/
 - https://www.securemessagingapps.com
 - [Windows PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
+- [IT Audit Checklist Templates](https://www.template.net/business/checklist-templates/it-audit-checklist/)
+- [GDPR Documentation Toolkit](https://advisera.com/toolkits/eu-gdpr-documentation-toolkit/)
 - Windows GodMode: GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}
 
 # Курси та навчання
