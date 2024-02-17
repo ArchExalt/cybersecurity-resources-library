@@ -1,4 +1,4 @@
-# Корисні ресурси з OSINT та не тільки
+# Ресурси з OSINT та інформаційної безпеки
 
 Photo search:
 - https://findclone.ru
@@ -211,6 +211,7 @@ Misc:
 - Windows GodMode: GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}
 
 # Курси та навчання
+- [Inteview Questions and Answers](https://globalguideline.com/interviews)
 - https://github.com/brootware/awesome-cyber-security-university
 - https://roadmap.sh/cyber-security
 - https://www.hackthebox.com
