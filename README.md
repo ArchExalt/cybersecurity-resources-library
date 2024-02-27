@@ -70,6 +70,7 @@ Net:
 - https://mxtoolbox.com
 - https://hackertarget.com/ip-tools/
 - https://www.shodan.io
+- https://subdomainfinder.c99.nl
 
 Websites:
 - https://urlscan.io/ 
@@ -232,3 +233,15 @@ Misc:
 - [Free ISO/IEC](https://t.me/isoforfree)
 - [Top 100 Free Red Team Tools](https://www.codelivly.com/master-the-art-of-red-teaming-with-the-top-100-free-red-team-tools/)
 - [Metasploit Cheat Sheet](https://www.codelivly.com/mastering-metasploit-the-ultimate-cheat-sheet-for-exploit-development-post-exploitation-and-more)
+
+# Kali
+```
+sudo apt-get update && sudo apt-get upgrade --fix-missing && sudo apt -y full-upgrade && sudo apt-get autoclean && sudo apt-get autoremove
+apt-get dist upgrade
+```
+```
+neofetch
+```
+```
+oneko
+```
