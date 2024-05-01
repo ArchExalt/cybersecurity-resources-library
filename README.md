@@ -1,4 +1,4 @@
-# Ресурси з OSINT та інформаційної безпеки
+# Ресурси з OSINT та кібербезпеки
 
 Photo search:
 - https://findclone.ru
@@ -93,6 +93,9 @@ Whois:
 
 Social engineering:
 - https://github.com/trustedsec/social-engineer-toolkit
+
+Passwords:
+- https://github.com/JoelGMSec/LeakSearch
 
 MAC generator:
 - https://dnschecker.org/mac-address-generator.php
