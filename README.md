@@ -30,6 +30,7 @@ Email and phone:
 
 Phishing:
 - https://github.com/blark/cli-phisher
+- https://github.com/jaykali/maskphish
 
 Source code:
 - https://grep.app
@@ -63,6 +64,7 @@ Instagram:
 - https://socialcatfish.com
 - https://github.com/Datalux/Osintgram
 - https://storysnooper.com
+- https://github.com/Datalux/Osintgram
 
 Net:
 - https://rapiddns.io
@@ -73,7 +75,8 @@ Net:
 - https://subdomainfinder.c99.nl
 
 Websites:
-- https://urlscan.io/ 
+- https://urlscan.io/
+- https://www.ssllabs.com/ssltest/
 
 Social networks:
 - https://github.com/Greenwolf/social_mapper  
@@ -129,7 +132,8 @@ Darknet:
 - https://www.darkowl.com
 
 Google:
-- https://github.com/opsdisk/metagoofil 
+- https://github.com/opsdisk/metagoofil
+- https://github.com/dwisiswant0/go-dork
 - Google Dorking: site: inurl: intitle: intext: link: daterange: numrange: author: inanchor: cache:
 
 Opendata:
@@ -151,6 +155,9 @@ Blockchain:
 Ransomware:
 - https://github.com/Err0r-ICA/Ransomware
 
+Windows:
+- https://github.com/ropnop/windapsearch
+
 Lock Screen:
 - https://www.kalilinux.in/2020/05/lockphish.html
 
@@ -171,6 +178,9 @@ IMSI:
 
 Mobile:
 - https://mas.owasp.org/MASTG/
+
+Steganography:
+- https://steghide.sourceforge.net
 
 System tools:
 - https://www.nirsoft.net
@@ -196,6 +206,7 @@ Various CTF tools:
 - https://exif.tools
 - https://emn178.github.io/online-tools/md5_checksum.html
 - https://www.asciitohex.com
+- [CTF Tools](https://www.linkedin.com/posts/activity-7114361258203635712-mmyR?utm_source=share&utm_medium=member_desktop)
 
 Misc:
 - [Subnet Calculator](https://www.davidc.net/sites/default/subnets/subnets.html)
