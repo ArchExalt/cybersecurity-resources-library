@@ -219,6 +219,7 @@ Various CTF tools:
 - [CTF Tools](https://www.linkedin.com/posts/activity-7114361258203635712-mmyR?utm_source=share&utm_medium=member_desktop)
 
 Misc:
+- https://chatgpt.com/g/g-mGe6Ny2Ej-cybersecurity-nmap-wireshark-metasploit-snort
 - [Subnet Calculator](https://www.davidc.net/sites/default/subnets/subnets.html)
 - [Free Web Proxy](https://www.proxysite.com)
 - [Encrypted File Sharing](https://sendfilesencrypted.com)
