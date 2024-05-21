@@ -1,3 +1,7 @@
+# Дистрибутиви
+- https://www.kali.org
+- https://csilinux.com
+
 # Ресурси з OSINT та кібербезпеки
 
 Photo search:
@@ -155,8 +159,11 @@ Extraction:
 Blockchain:
 - https://github.com/s0md3v/Orbit
 
-Ransomware:
+Attacks:
 - https://github.com/Err0r-ICA/Ransomware
+- https://github.com/topics/email-bomber
+- https://itarmy.com.ua/instruction/
+- https://cyberarmy.com.ua/?docs=windows/ddos-tools
 
 Windows:
 - https://github.com/ropnop/windapsearch
