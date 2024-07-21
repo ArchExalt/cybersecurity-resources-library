@@ -1,14 +1,14 @@
-# Дистрибутиви
+# Distributives
 - https://www.kali.org
 - https://csilinux.com
 
-# Ресурси з OSINT та кібербезпеки
+# OSINT and cybersecurity resources
 
-Photo search:
-- https://findclone.ru
+Photo Search:
 - https://pimeyes.com
 - https://www.betafaceapi.com/demo.html
 - https://betaface.com/demo_old.html
+- https://findclone.ru
 - https://facecheck.id/
 - https://search4faces.com/
 
@@ -23,7 +23,7 @@ Image search:
 - https://court.gov.ua
 - https://asvpweb.minjust.gov.ua
 
-Email and phone:
+Email and phone number:
 - https://github.com/sundowndev/phoneinfoga 
 - https://epieos.com
 - https://github.com/megadose/holehe
@@ -220,6 +220,7 @@ Various CTF tools:
 
 Misc:
 - https://chatgpt.com/g/g-mGe6Ny2Ej-cybersecurity-nmap-wireshark-metasploit-snort
+- https://chatgpt.com/g/g-kox62b9Hu-cybgpt-cyber-security-cybersecurity
 - [Subnet Calculator](https://www.davidc.net/sites/default/subnets/subnets.html)
 - [Free Web Proxy](https://www.proxysite.com)
 - [Encrypted File Sharing](https://sendfilesencrypted.com)
@@ -235,8 +236,9 @@ Misc:
 - [GDPR Documentation Toolkit](https://advisera.com/toolkits/eu-gdpr-documentation-toolkit/)
 - [Router Passwords](https://portforward.com/router-password/)
 - Windows GodMode: GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}
+- [Linux Kernel parameters](https://docs.kernel.org/networking/ip-sysctl.html)
 
-# Курси та навчання
+# Courses and education
 - [Inteview Questions and Answers](https://globalguideline.com/interviews)
 - https://github.com/brootware/awesome-cyber-security-university
 - https://roadmap.sh/cyber-security
@@ -251,11 +253,34 @@ Misc:
 - https://pentesterlab.com/exercises/web_for_pentester_II/course
 - https://picoctf.org/index.html#picogym
 - https://www.hacksplaining.com/lessons
+- https://www.netacad.com
 - [Kali Linux Revealed](https://upload.wikimedia.org/wikipedia/commons/5/5d/Kali-Linux-Revealed-2021-edition.pdf)
 - [HackTricks](https://book.hacktricks.xyz/welcome/readme)
 - [Free ISO/IEC](https://t.me/isoforfree)
 - [Top 100 Free Red Team Tools](https://www.codelivly.com/master-the-art-of-red-teaming-with-the-top-100-free-red-team-tools/)
 - [Metasploit Cheat Sheet](https://www.codelivly.com/mastering-metasploit-the-ultimate-cheat-sheet-for-exploit-development-post-exploitation-and-more)
+
+# Linux
+Defensive security: 
+- Firewalls: nftables, ufw, Vuurmuur, firewalld
+- Sandboxing: Bubblewrap, Seccomp, Firejail
+- Intrusion Detection: Snort, Suricata, AIDE, Zeek
+- Log Monitoring:  ELK, Netdata, logwatch
+- File Integrity: Auditd, Tripwire, Auditbeat
+- Antivirus: Rspamd, ClamAV, LMD
+- Disk/Filesystem Encryption: fscrypt, dm-crypt, EncFS, cryptsetup, gpg
+- SSH: SSHGuard, DenyHosts, fail2ban
+- VPN: IPsec, OpenVPN, WireGuard
+- Password Security: pwgen, John the Ripper
+- Network Monitoring: Wireshark, Scapy, tcpdump, tshark
+- Security Hardening: SELinux, Grsecurity, AppArmor, PAM
+- Rootkit Detection: chkrootkit, Lynis, rkhunter
+- Security Auditing: openSCAP, openVAS, Nmap
+- Backups: Déjà Dup , luckybackup
+
+- auditd
+
+
 
 # Kali
 ```
