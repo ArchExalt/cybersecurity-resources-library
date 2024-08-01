@@ -19,7 +19,7 @@ Image search:
 - https://images.google.com
 - https://github.com/GONZOsint/gvision
 
-Судові реєстри:
+Court registries:
 - https://court.gov.ua
 - https://asvpweb.minjust.gov.ua
 
@@ -61,6 +61,8 @@ Comprehensive search engines:
 Vehicle recognition:
 - https://baza-gai.com.ua/
 - https://carnet.ai
+- https://vehicle-ai.vercel.app 
+- https://platerecognizer.com 
 
 Instagram:
 - https://inflact.com/tools/instagram-search/
@@ -81,6 +83,7 @@ Net:
 Websites:
 - https://urlscan.io/
 - https://www.ssllabs.com/ssltest/
+- https://github.com/wpscanteam/wpscan
 
 Social networks:
 - https://github.com/Greenwolf/social_mapper  
@@ -111,9 +114,12 @@ Emails:
 
 VPN checker:
 - https://www.ip2proxy.com
+- https://ipinfo.io
 
 Malware:
-- https://www.hybrid-analysis.com/ 
+- https://www.hybrid-analysis.com/
+- https://github.com/malvuln/RansomLord
+- https://www.malwarebytes.com
 
 Compilations:
 - https://www.molfar.global/useful-apps
@@ -191,7 +197,9 @@ Mobile:
 
 Steganography:
 - https://steghide.sourceforge.net
-
+- https://github.com/shankarnarayank/steganography
+- https://github.com/chishaxie/BlindWaterMark
+- 
 System tools:
 - https://www.nirsoft.net
 - https://learn.microsoft.com/en-us/sysinternals/downloads/
@@ -201,6 +209,7 @@ System tools:
 
 Various CTF tools:
 - https://crackstation.net - password hash cracker
+- https://fotoforensics.com
 - https://www.boxentriq.com/code-breaking/cipher-identifier
 - https://gchq.github.io/CyberChef/
 - https://www.cachesleuth.com/multidecoder/
@@ -235,8 +244,9 @@ Misc:
 - [IT Audit Checklist Templates](https://www.template.net/business/checklist-templates/it-audit-checklist/)
 - [GDPR Documentation Toolkit](https://advisera.com/toolkits/eu-gdpr-documentation-toolkit/)
 - [Router Passwords](https://portforward.com/router-password/)
-- Windows GodMode: GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}
 - [Linux Kernel parameters](https://docs.kernel.org/networking/ip-sysctl.html)
+- https://news.ycombinator.com/news
+- Windows GodMode: GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}
 
 # Courses and education
 - [Inteview Questions and Answers](https://globalguideline.com/interviews)
@@ -253,33 +263,55 @@ Misc:
 - https://pentesterlab.com/exercises/web_for_pentester_II/course
 - https://picoctf.org/index.html#picogym
 - https://www.hacksplaining.com/lessons
+- https://www.letsdefend.io
 - https://www.netacad.com
 - [Kali Linux Revealed](https://upload.wikimedia.org/wikipedia/commons/5/5d/Kali-Linux-Revealed-2021-edition.pdf)
 - [HackTricks](https://book.hacktricks.xyz/welcome/readme)
 - [Free ISO/IEC](https://t.me/isoforfree)
 - [Top 100 Free Red Team Tools](https://www.codelivly.com/master-the-art-of-red-teaming-with-the-top-100-free-red-team-tools/)
 - [Metasploit Cheat Sheet](https://www.codelivly.com/mastering-metasploit-the-ultimate-cheat-sheet-for-exploit-development-post-exploitation-and-more)
+- https://github.com/digininja/DVWA
+- https://github.com/opsxcq/docker-vulnerable-dvwa
+- https://github.com/OWASP/crAPI
+
+# Books
+- [Reverse Engineering for Beginners](https://github.com/Cactus-proj/RE-for-Beginners/releases/download/v1.0.0/RE4B-EN.pdf)
+- [Kali Linux Revealed (2021)](https://upload.wikimedia.org/wikipedia/commons/5/5d/Kali-Linux-Revealed-2021-edition.pdf)
 
 # Linux
 Defensive security: 
-- Firewalls: nftables, ufw, Vuurmuur, firewalld
-- Sandboxing: Bubblewrap, Seccomp, Firejail
-- Intrusion Detection: Snort, Suricata, AIDE, Zeek
-- Log Monitoring:  ELK, Netdata, logwatch
-- File Integrity: Auditd, Tripwire, Auditbeat
-- Antivirus: Rspamd, ClamAV, LMD
-- Disk/Filesystem Encryption: fscrypt, dm-crypt, EncFS, cryptsetup, gpg
-- SSH: SSHGuard, DenyHosts, fail2ban
-- VPN: IPsec, OpenVPN, WireGuard
-- Password Security: pwgen, John the Ripper
+- Firewalls: iptables, firewalld, ufw, Guarddog, Vuurmuur, Gufw, Shorewall, nftables, Firewall Builder
+- Security Auditing: auditd, openSCAP, openVAS, Nmap, Nikto, zenmap, SpiderFoot
+- Malware Detection: chkrootkit, rkhunter, Lynis, LMD
+- Access Control: SELinux, AppArmor, Smack, Grsecurity, Yama, chkacct, tiger, PAM
+- Sandboxing: Bubblewrap, Seccomp, Firejail, Flatpak, Snappy, Chroot Jail
+- IDS/IPS/SIEM: Snort, Suricata, Zeek, OSSEC, AIDE, Security Onion, OSSIM, CrowdSec, Kismet, Wazuh
+- File Integrity Monitoring: Tripwire, Auditd, Auditbeat, Samhain, OSSEC, Wazuhm Osquery, Atomic OSSEC
+- Antivirus: CrowdStrike, ClamAV, Rspamd
+- Log Monitoring: Logwatch, ELK Stack, Netdata, logwatch, Graylog, Sagan, Fluentd, OpenObserve, Dynatrace, logcheck, syslog-ng 
+- Backups: Déjà Dup, luckyBackup 
+- Encryption/Cryptography: openssl, gpg, dm-crypt, fscrypt, EncFS, cryptsetup, Veracrypt, Gocryptfs, eCryptfs, SecureFS
+- Secure Shell: openssh, SSHGuard, DenyHosts, Knockd, Fail2ban
+- Password Security: John the Ripper, Hashcat, KeePassXC, pwgen, GoPass, epasswd
+- VPN: IPsec, strongSwan, OpenVPN, WireGuard, Libreswan, SoftEther
+- Patch Manager: Spacewalk, Katello, RH Satellite, Landscape, NinjaOne
 - Network Monitoring: Wireshark, Scapy, tcpdump, tshark
-- Security Hardening: SELinux, Grsecurity, AppArmor, PAM
-- Rootkit Detection: chkrootkit, Lynis, rkhunter
-- Security Auditing: openSCAP, openVAS, Nmap
-- Backups: Déjà Dup , luckybackup
+- WAF: ModSecurity, NAXSI, BunkerWeb, Coraza, open-appsec
+- Containers: Docker Bench, Calico, Clair, gVisor, Grafeas, Falco, Dagda, Cilium, Dockle
 
-- auditd
-
+Offensive security: 
+- Reconnaissance: Recon-ng, theHarvester, Nmap, Zenmap, DNSRecon, Netdiscover, Maltego, p0f, Zmap, Masscan, Unicornscan
+- Vulnerabilities: OpenVAS, w3af, Vuls, Nikto, Nessus,
+- Networks: Wireshark, Ettercap, ArpSpoof, NetCat, dsniff, Scapy, hping3, Yersinia, maccanger, iproute2, thc-ssl-dos, Cutwail botnet, db1000n, MHDDoS
+- Password Security: John the Ripper, Hashcat, Crunch, Medusa, Hydra, Rainbowcrack, CeWL, crowbar, fcrackzip, Ophcrack, Patator,
+- Mobile Security: Frida, Drozer, ANdroguard, MobSF, MASTG, NetHunter, Android Tamer, Apktool, Quark Engine, bettercap
+- Reverse Engineering: Angr, Ghidra, Radare2
+- Wireless Attacks: Kismet, Wifite, Aircrack-ng, airgeddon, WiFi Pumpkin, PixieWPS
+- Social Engineering: Gophish, SET, PhishX, King Phisher
+- Pentesting: Burp Suite, OWASP ZAP, Arachni, Wfull, Skipfish, Cobalt Strike
+- Reporting: Faraday, Serpico, Dradis, DefectDojo, MagicTree, Lair-framework
+- Exploitation: Metasploit, XSSer, SearchSploit, Pwntools, Exploit-DB, Commix, Ropper, ysoserial, ShellNoob, RouterSploit, BeEF, Armitage, sqlmap, jSQL Injection, PTF, SQL Ninja, Exploit Pack
+- Post-Exploitation: Mimikatz, Koadic, Meterpreter, BeRoot, Pwncat, Dnscat2, Bloodhound, Pupy, Empire
 
 
 # Kali
