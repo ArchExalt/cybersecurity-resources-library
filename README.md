@@ -2,7 +2,7 @@
 - https://www.kali.org
 - https://csilinux.com
 
-# OSINT, forensics and cybersecurity resources
+# OSINT, Forensics and Cybersecurity Resources
 
 Photo Search:
 - https://pimeyes.com
