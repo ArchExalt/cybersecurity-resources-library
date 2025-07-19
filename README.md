@@ -1,8 +1,10 @@
 # Distros
 - https://www.kali.org
 - https://csilinux.com
+- https://parrotsec.org
+- https://blackarch.org
 
-# OSINT, Forensics and Cybersecurity Resources
+# OSINT, Forensics and Cybersecurity Resources and Tools
 
 Photo Search:
 - https://pimeyes.com
@@ -11,6 +13,7 @@ Photo Search:
 - https://findclone.ru
 - https://facecheck.id/
 - https://search4faces.com/
+- Яндекс.Зображення
 
 Image Search:
 - http://karmadecay.com
@@ -22,6 +25,10 @@ Image Search:
 Court Registries:
 - https://court.gov.ua
 - https://asvpweb.minjust.gov.ua
+- https://xn--90afdbaav0bd1afy6eub5d.xn--p1ai/
+- https://reyestr.court.gov.ua
+- https://pravosud.com.ua 
+- https://conp.com.ua 
 
 Email and Phone Numbers:
 - https://github.com/sundowndev/phoneinfoga 
@@ -33,9 +40,21 @@ Email and Phone Numbers:
 - https://github.com/alpkeskin/mosint
 - https://www.email-format.com/i/browse_letter/
 - https://newapp.anymailfinder.com/search/
+- https://snov.io
+- https://phonebook.cz
+- Getcontact
+- https://web.truecaller.com/
+- https://quickosint.com/
+- https://infobazabot.org/
+- https://universalsearch.io/
+
+Temp Mail:
+- https://cryptogmail.com
+- https://temp-mail.org/
 
 Email Analysis:
 - https://www.freeedbviewer.com
+- https://github.com/scoutforensic/EDB-Viewer
 - https://www.mitec.cz/mailview.html
 - https://www.systoolsgroup.com/ost-viewer.html
 - https://www.systoolsgroup.com/pst-viewer.html
@@ -43,6 +62,15 @@ Email Analysis:
 Phishing:
 - https://github.com/blark/cli-phisher
 - https://github.com/jaykali/maskphish
+- https://github.com/rsmusllp/king-phisher
+
+Dumps:
+- WhatBreach: https://github.com/Ekultek/WhatBreach
+- LeakLooker: https://github.com/woj-ciech/LeakLooker
+- Buster: https://github.com/sham00n/buster
+- Scavenger: https://github.com/rndinfosecguy/Scavenger
+- PwnDB: https://github.com/davidtavarez/pwndb
+- h8mail: https://github.com/khast3x/h8mail
 
 Source Code:
 - https://grep.app
@@ -73,7 +101,10 @@ Vehicle Recognition:
 - https://baza-gai.com.ua/
 - https://carnet.ai
 - https://vehicle-ai.vercel.app 
-- https://platerecognizer.com 
+- https://platerecognizer.com
+- https://unda.com.ua
+- https://bidfax.info
+- https://ua.carplates.app/
 
 Instagram:
 - https://inflact.com/tools/instagram-search/
@@ -82,6 +113,7 @@ Instagram:
 - https://github.com/Datalux/Osintgram
 - https://storysnooper.com
 - https://github.com/Datalux/Osintgram
+- https://instanavigation.com 
 
 Net/Servers:
 - https://rapiddns.io
@@ -93,6 +125,7 @@ Net/Servers:
 - https://ivre.rocks
 - https://leakix.net
 - https://app.netlas.io/host/
+- https://www.vedbex.com/subdomain-finder/
 
 Websites:
 - https://urlscan.io/
@@ -108,10 +141,24 @@ Telegram:
 - https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT
 - https://web.archive.org/web/20230728130458/https://medium.com/@ibederov_en/active-methods-for-identifying-telegram-users-in-osint-9619d3f3538e
 - https://www.telegramdb.org
+- https://t.me/telesint_bot
+- t.me/+ 
+
+Telegram Bots:
+- @VKHistoryRobot
+- @telesint_bot
+- @HowToFindRobot
+- @HotToFindRU_Robot
+- @HowToFind
+- @UniversalSearchSuperBot
+- https://infobazabot.org
+- https://quickosint.org/index_en.php
+- https://github.com/soxoj/maigret-tg-bot
 
 Whois:
 - https://whois.whoisxmlapi.com/lookup
 - https://who.is
+- https://www.whois.com/whois/
 
 Social Engineering:
 - https://github.com/trustedsec/social-engineer-toolkit
@@ -154,6 +201,16 @@ Opendata:
 - https://www.publicdatacheck.com
 - https://cipher387.github.io/osintmap/
 - https://opendatabot.ua
+- https://abit-poisk.org.ua/
+- https://clarity-project.info
+- https://youcontrol.com.ua
+- https://www.lursoft.lv/en/data-bases-of-enterprises
+- https://data.gov.ua/ 
+- https://se.diia.gov.ua/opendata 
+- https://www.clarity-project.info   
+- https://amcu.clarityapp.pro 
+- https://vkursi.pro/
+- https://usr.minjust.gov.ua/content/free-search  
 
 Archive:
 - https://archive.org
@@ -164,6 +221,9 @@ Extraction:
 - https://github.com/soxoj/socid-extractor
 - https://github.com/simsong/bulk_extractor
 - https://github.com/denandz/KeeFarce
+- https://cloudshot.com
+- https://getsharex.com
+- https://github.com/syncthing/syncthing  
 
 Blockchain:
 - https://github.com/s0md3v/Orbit
@@ -264,8 +324,36 @@ Vulnerabilities:
 - https://www.cve.org
 - https://vulners.com
 
-WiFi:
+Threat Libraries:
+- https://abuse.ch 
+- https://bazaar.abuse.ch/browse/ 
+- https://feodotracker.abuse.ch/blocklist/ 
+- https://sslbl.abuse.ch/blacklist/ 
+- https://urlhaus.abuse.ch/browse/ 
+- https://threatfox.abuse.ch/browse/ 
+- https://yaraify.abuse.ch/scan/
+- https://misp-galaxy.org/  
+- https://malpedia.caad.fkie.fraunhofer.de/actors 
+- https://github.com/TheCyberArcher/Awesome-cyber-criminal-list  
+- https://macos.checkpoint.com 
+
+Opt out:
+- https://myactivity.google.com/dark-web-report/setup-profile
+- https://justwhatsthedata.github.io
+- https://justgetmydata.com/uk/
+- https://justdeleteme.xyz
+- https://monitor.mozilla.org
+- https://haveibeenpwned.com
+- https://www.accountkiller.com/en/all-sites
+- https://www.optery.com/opt-out-guides/
+- https://github.com/The-Osint-Toolbox/Privacy-Opt-Out
+
+Wi-Fi:
 - https://wigle.net
+- https://play.google.com/store/apps/details?id=com.staircase3.opensignal&hl=uk
+- https://www.acrylicwifi.com/en/wifi-analyzer/
+- https://www.ekahau.com/products/ekahau-connect/ai-pro/
+- https://play.google.com/store/apps/details?id=com.wilysis.cellinfolite
 
 Attacks:
 - https://github.com/Err0r-ICA/Ransomware
@@ -273,9 +361,16 @@ Attacks:
 - https://itarmy.com.ua/instruction/
 - https://cyberarmy.com.ua/?docs=windows/ddos-tools
 - https://github.com/topics/ddos-attack-tools
+
+Payloads:
+- https://payloadhub.com/blogs/payloads
+- https://github.com/hak5/usbrubberducky-payloads
   
 Windows:
 - https://github.com/ropnop/windapsearch
+- https://windirstat.net
+- https://www.microsoft.com/en-us/download/details.aspx?id=50034
+- https://massgrave.dev
 
 Lock Screen:
 - https://www.kalilinux.in/2020/05/lockphish.html
@@ -284,14 +379,36 @@ SQL:
 - https://github.com/sqlmapproject/sqlmap
 - https://www.sqlite.org
 
+RAM:
+- https://github.com/ShaneK2/inVtero.net
+- https://github.com/volatilityfoundation/volatility3
+- https://github.com/google/rekall
+- https://github.com/denandz/KeeFarce
+
+Cloud/Containers:
+- https://github.com/andresriancho/nimbostratus
+- https://github.com/quay/clair
+- https://github.com/falcosecurity/falco
+- https://github.com/eliasgranderubio/dagda
+- https://github.com/anchore/grype
+- https://github.com/aquasecurity/kube-hunter
+- https://github.com/aquasecurity/kube-bench
+- https://github.com/initstring/cloud_enum
+- https://github.com/nccgroup/ScoutSuite
+- https://github.com/0xsha/CloudBrute
+- https://github.com/RhinoSecurityLabs/pacu
+- https://cloudcustodian.io
+
 Wordlist Compilers:
 - https://github.com/D4Vinci/elpscrk
 - https://github.com/digininja/CeWL
 - https://github.com/Mebus/cupp
 
-Reverse shell:
+Reverse Shell:
 - https://github.com/mandiant/flare-vm
-
+- https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet  
+- https://www.revshells.com
+  
 IMSI:
 - https://github.com/Oros42/IMSI-catcher
 - https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector
@@ -303,7 +420,19 @@ Steganography:
 - https://steghide.sourceforge.net
 - https://github.com/shankarnarayank/steganography
 - https://github.com/chishaxie/BlindWaterMark
-  
+- https://github.com/mattkwan-zz/snow
+- https://www.abc.se/~re/Coagula/Coagula.html
+- https://www.sonicvisualiser.org
+- https://github.com/laramies/metagoofil
+- https://www.sodapdf.com/pdf-tools/ocr-pdf/
+- https://github.com/Jpinsoft/DeepSound 
+- https://github.com/dasveloper/Scrambly
+- https://github.com/tbpaolini/PyJpegDecoder
+- https://29a.ch/photo-forensics/ 
+- https://github.com/ImpulseAdventure/JPEGsnoop/ 
+- https://fotoforensics.com 
+- https://www.openstego.com
+
 System Tools:
 - https://www.nirsoft.net
 - https://learn.microsoft.com/en-us/sysinternals/downloads/
@@ -331,8 +460,9 @@ Compilations:
 
 CTF Tools:
 - https://crackstation.net - password hash cracker
-- https://fotoforensics.com
 - https://www.boxentriq.com/code-breaking/cipher-identifier
+- https://qrscanner.net 
+- https://hexed.it 
 - https://gchq.github.io/CyberChef/
 - https://www.cachesleuth.com/multidecoder/
 - https://www.dcode.fr/en
@@ -364,6 +494,7 @@ Misc:
 - https://spyware.neocities.org/articles/
 - https://www.securemessagingapps.com
 - [Windows PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
+- [NIST CSF Framework 2.0](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf)
 - [IT Audit Checklist Templates](https://www.template.net/business/checklist-templates/it-audit-checklist/)
 - [GDPR Documentation Toolkit](https://advisera.com/toolkits/eu-gdpr-documentation-toolkit/)
 - [Router Passwords](https://portforward.com/router-password/)
@@ -377,7 +508,6 @@ Misc:
 - https://www.sans.org/posters/
 - https://github.com/brootware/awesome-cyber-security-university
 - https://roadmap.sh/cyber-security
-- https://www.hackthebox.com
 - https://neetcode.io
 - https://tryhackme.com
 - https://ctf.hacker101.com
@@ -399,13 +529,26 @@ Misc:
 - https://github.com/digininja/DVWA
 - https://github.com/opsxcq/docker-vulnerable-dvwa
 - https://github.com/OWASP/crAPI
+- https://github.com/Morronel/stalker-lab/tree/main 
+- https://ctftime.org/event/1071/tasks/ 
+- https://github.com/onealmond/hacking-lab/tree/master
+- https://ctf.hackthebox.com  
+- https://www.hackthebox.com/machines 
+- https://overthewire.org/wargames/ 
+- https://crackmes.one  
 
 # Books
 - [Reverse Engineering for Beginners](https://github.com/Cactus-proj/RE-for-Beginners/releases/download/v1.0.0/RE4B-EN.pdf)
 - [Kali Linux Revealed (2021)](https://upload.wikimedia.org/wikipedia/commons/5/5d/Kali-Linux-Revealed-2021-edition.pdf)
 - https://pdfdrive.com.co
 - https://llhlf.com
-- https://open.umn.edu/opentextbooks   
+- https://open.umn.edu/opentextbooks
+- https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Computer%20Networks.pdf
+- https://toc.cryptobook.us/book.pdf
+- https://www.crypto101.io
+- https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/Cybersecurity_Ops_with_bash_Attack.pdf
+- https://www.r-5.org/files/books/computers/internals/net/Richard_Stevens-TCP-IP_Illustrated-EN.pdf
+- https://cryptobook.nakov.com 
 
 # Blue Team & Red Team Tools
 Defensive Security: 
@@ -448,6 +591,33 @@ Offensive Security:
 - Reporting: Faraday, Serpico, Dradis, DefectDojo, MagicTree, Lair-framework
 - Exploitation: Metasploit, XSSer, SearchSploit, Pwntools, Exploit-DB, Commix, Ropper, ysoserial, ShellNoob, RouterSploit, BeEF, Armitage, sqlmap, jSQL Injection, PTF, SQL Ninja, Exploit Pack, Pupy
 - Post-Exploitation: Mimikatz, Koadic, Meterpreter, BeRoot, Pwncat, Dnscat2, Bloodhound, Pupy, Empire Project, BeRoot
+
+# Google Dork Operators
+- https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06
+- https://www.exploit-db.com/google-hacking-database
+- https://hackyourmom.com/en/osvita/google-dorks-opanovuyemo-mystecztvo-poshukovyh-zapytiv/
+- site - обмежує пошук результатами з відповідного вебсайту (site:example.com)
+- filetype - шукає файли певного типу (filetype:pdf site:example.com)
+- intitle - шукає сторінки, у заголовках яких міститься певне слово (intitle:"index of")
+- allintitle - шукає всі слова у заголовку сторінок (allintitle:login password)
+- inurl - шукає сторінки, URL яких містить певне слово (inurl:admin)
+- cache - відображає кешовану версію вебсторінки (cache:example.com)
+- allintext - шукає всі слова в тексті сторінок (allintext:username password filetype:txt)
+- related - відображає вебсайти, схожі на вказаний (related:example.com)
+- link - шукає сторінки, що містять посилання на вказаний сайт (link:example.com)
+- "key phrase" - шукає точну фразу ("admin login")
+- &udm=14 - вимкнення ШІ в результатах пошуку
+
+Приклади запитів:
+- пошук файлів з паролями - filetype:txt inurl:"password" 
+- пошук відкритих FTP-директорій - intitle:"index of" inurl:ftp 
+- пошук конфігураційних файлів з паролями - filetype:config "password" 
+- пошук камер відеоспостереження - inurl:view/view.shtml
+- пошук адмінпанелей - inurl:admin intitle:login
+- пошук конфігурацій серверів - intitle:index.of .htaccess 
+- пошук файлів баз даних - filetype:sql intext:"CREATE TABLE" 
+- пошук конфіденційних файлів - filetype:xls site:example.com "password" 
+- inurl:"/private" intext:"index of /" "win64" -litespeed
 
 # Kali
 ```
