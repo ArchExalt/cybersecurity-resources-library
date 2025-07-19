@@ -143,10 +143,25 @@ Net/Servers:
 - https://hackertarget.com/ip-tools/
 - https://www.shodan.io
 - https://subdomainfinder.c99.nl
+- https://www.dan.me.uk/tornodes
 - https://ivre.rocks
 - https://leakix.net
 - https://app.netlas.io/host/
 - https://www.vedbex.com/subdomain-finder/
+
+Misc Web:
+- https://github.com/beefproject/beef
+- https://github.com/codebutler/firesheep
+- https://lookup.icann.org/en
+- https://github.com/aress31/jwtcat
+- https://github.com/s0md3v/XSStrike
+- https://2ip.ua/ua/
+- https://crt.sh
+- https://github.com/goclone-dev/goclone
+- https://browserleaks.com
+- https://github.com/jaeles-project/gospider
+- https://github.com/rbsec/sslscan
+- https://www.ssllabs.com/ssltest/
 
 Websites:
 - https://urlscan.io/
@@ -225,15 +240,23 @@ Opendata:
 - https://cipher387.github.io/osintmap/
 - https://opendatabot.ua
 - https://abit-poisk.org.ua/
-- https://clarity-project.info
 - https://youcontrol.com.ua
 - https://www.lursoft.lv/en/data-bases-of-enterprises
-- https://data.gov.ua/ 
-- https://se.diia.gov.ua/opendata 
 - https://www.clarity-project.info   
 - https://amcu.clarityapp.pro 
 - https://vkursi.pro/
-- https://usr.minjust.gov.ua/content/free-search  
+- https://claritycheck.com/en
+
+Registries:
+- https://usr.minjust.gov.ua/content/free-search
+- https://data.gov.ua/ 
+- https://se.diia.gov.ua/opendata
+- https://asvpweb.minjust.gov.ua/#/search-debtors
+- https://erb.minjust.gov.ua
+- https://diia.gov.ua/services/informaciya-z-derzhavnogo-reyestru-rechovih-prav-na-neruhome-majno
+- https://molfar.com/useful-apps-registers 
+- https://courses.prometheus.org.ua/assets/courseware/v1/399c7f8b0d1b550e5e88ca30a3877a62/asset-v1:Prometheus+OSINT101+2024_T3+type@asset+block/Російські_реєстри__1_.pdf
+- https://leave-russia.org
 
 Archives:
 - https://archive.org
@@ -372,6 +395,22 @@ Threat Libraries:
 - https://macos.checkpoint.com
 - https://www.malware-traffic-analysis.net/index.html
 - https://search.libraryofleaks.org/
+- https://isc.sans.edu
+
+News:
+- https://cert.gov.ua/articles
+- https://blog.redteam-pentesting.de
+- https://cocomelonc.github.io
+- https://cybernews.com
+- https://www.securityweek.com
+- https://www.technewsworld.com
+- https://therecord.media/news/cybercrime
+
+Analytic materials:
+- https://cip.gov.ua/ua/statics/analitichni-materiali-derzhspeczv-yazku
+- https://media.defense.gov/2025/May/21/2003719846/-1/-1/0/CSA_RUSSIAN_GRU_TARGET_LOGISTICS.PDF
+- https://t.me/cricket404_team/1200
+- https://t.me/cricket404_team/1202
 
 Opt out:
 - https://myactivity.google.com/dark-web-report/setup-profile
@@ -430,6 +469,7 @@ Windows:
 - https://windirstat.net
 - https://www.microsoft.com/en-us/download/details.aspx?id=50034
 - https://massgrave.dev
+- https://github.com/lassehauballe/Eternalblue 
 
 Lock Screen:
 - https://www.kalilinux.in/2020/05/lockphish.html
@@ -472,10 +512,56 @@ IMSI:
 - https://github.com/Oros42/IMSI-catcher
 - https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector
 
-Mobile:
-- https://mas.owasp.org/MASTG/
+eSIM:
+- https://play.google.com/store/apps/details?id=com.appvillis.esim
 
-Steganography:
+Maps:
+- https://livingatlas.arcgis.com/wayback
+- https://www.cellmapper.net/
+- https://cyber-boroshno.com.ua/
+- https://deepstatemap.live
+- https://www.arcgis.com/
+- https://www.f4map.com/
+- https://earth.google.com/
+- https://geohints.com/
+- https://www.geonames.org/
+- https://www.mapbox.com/
+- https://meteofrance.com/
+- https://earthobservatory.nasa.gov/
+- https://firms.modaps.eosdis.nasa.gov/
+- https://www.nationsonline.org/oneworld/map/world_map.htm
+
+Satellites:
+- https://www.sentinel-hub.com/
+
+Maps:
+- https://wikimapia.org
+- https://firms.modaps.eosdis.nasa.gov
+- https://earthkit.app
+
+Cell Towers:
+- https://www.satphonecity.com/
+- https://www.opensignal.com/
+- https://www.peeringdb.com/
+- https://www.openstreetmap.org/
+- https://worldview.earthdata.nasa.gov/
+
+Drones:
+- https://www.dronestagr.am/
+
+Nature:
+- https://identify.plantnet.org/
+- https://www.outdoormap.com/
+- https://disasterscharter.org/
+- https://merlin.allaboutbirds.org
+- https://ebird.org/home
+- https://peakvisor.com/en
+- https://www.suncalc.org
+- https://github.com/bellingcat/ShadowFinder
+- https://play.google.com/store/apps/details?id=com.jurfixapp.devibuh&hl=uk
+- https://github.com/VicenteVivan/geo-clip
+
+Steganography and Metadata:
 - https://steghide.sourceforge.net
 - https://github.com/shankarnarayank/steganography
 - https://github.com/chishaxie/BlindWaterMark
@@ -491,6 +577,8 @@ Steganography:
 - https://github.com/ImpulseAdventure/JPEGsnoop/ 
 - https://fotoforensics.com 
 - https://www.openstego.com
+- https://exiftool.org
+- https://github.com/ElevenPaths/FOCA
 
 System Tools:
 - https://www.nirsoft.net
@@ -507,7 +595,16 @@ Debugging Tools:
 - https://www.ollydbg.de
 - https://github.com/eteran/edb-debugger
 - https://hex-rays.com/ida-free
+- https://github.com/kbandla/ImmunityDebugger
 - objdump, IDA, Ghidra, radare2, Binary Ninja, OllyDbg
+
+Fuzzers:
+- https://www.sonarsource.com/products/sonarqube/
+- https://github.com/google/AFL
+- https://find-sec-bugs.github.io
+- https://spotbugs.github.io
+- https://github.com/calebstewart/peach
+- https://github.com/Cisco-Talos/mutiny-fuzzer
 
 Compilations:
 - https://www.molfar.global/useful-apps
@@ -524,6 +621,19 @@ Compilations:
 - https://www.mitec.cz/index.html
 - https://www.systoolsgroup.com/products.html
 - https://ericzimmerman.github.io/#!index.md
+- https://github.com/topics/hacking-tools
+- https://sectools.org
+- https://github.com/netstalking-core/netstalking-osint
+- http://www.vulnerabilityassessment.co.uk/Penetration%20Test.html
+- https://www.magnetforensics.com/free-tools/
+- https://www.mitec.cz/index.html
+- https://github.com/topics/forensics?l=c%23
+- https://offsec.tools
+- https://github.com/giuliacassara/awesome-social-engineering
+- https://github.com/topics/osint
+- https://github.com/The-Art-of-Hacking
+- https://www.blackhatethicalhacking.com/articles/reverse-engineering-hacking-tools/ 
+- https://github.com/The-Art-of-Hacking/h4cker/tree/master/osint
 
 CTF Tools:
 - https://crackstation.net - password hash cracker
@@ -620,10 +730,10 @@ Misc:
 # Blue Team & Red Team Tools
 Defensive Security: 
 - Firewalls: iptables, firewalld, ufw, Guarddog, Vuurmuur, Gufw, Shorewall, nftables, Firewall Builder
-- Security Auditing: auditd, openSCAP, openVAS, Nmap, Nikto, zenmap, SpiderFoot
+- Security Auditing: auditd, openSCAP, openVAS, Nmap, [Nikto](https://github.com/sullo/nikto), Zenmap, SpiderFoot, skipfish, Nessus, Nexpose, [OpenVAS](https://www.openvas.org)
 - Malware Detection: chkrootkit, rkhunter, Lynis, LMD
 - Access Control: SELinux, AppArmor, Smack, Grsecurity, Yama, chkacct, tiger, PAM
-- Sandboxing: Bubblewrap, Seccomp, Firejail, Flatpak, Snappy, Chroot Jail
+- Sandboxing: Bubblewrap, Seccomp, Firejail, Flatpak, Snappy, Chroot Jail, [CuckooSandbox](https://github.com/cuckoosandbox)
 - IDS/IPS/SIEM: Snort, Suricata, Zeek, OSSEC, AIDE, Security Onion, OSSIM, CrowdSec, Kismet, Wazuh, splunk, LogRhythm
 - File Integrity Monitoring: Tripwire, Auditd, Auditbeat, Samhain, OSSEC, Wazuhm Osquery, Atomic OSSEC
 - Antivirus: CrowdStrike, ClamAV, Rspamd
@@ -644,13 +754,13 @@ Defensive Security:
 - Containers: Docker Bench, Calico, Clair, gVisor, Grafeas, Falco, Dagda, Cilium, Dockle
 
 Offensive Security: 
-- Reconnaissance: [recon-ng](https://github.com/lanmaster53/recon-ng), theHarvester, Nmap, Zenmap, DNSRecon, Netdiscover, Maltego, p0f, Zmap, Masscan, Unicornscan, sqlmap, RustScan, Amass,  
+- Reconnaissance: [recon-ng](https://github.com/lanmaster53/recon-ng), theHarvester, Nmap, [Zenmap](https://nmap.org/zenmap/), DNSRecon, Netdiscover, Maltego, p0f, Zmap, Masscan, Unicornscan, sqlmap, RustScan, Amass,  
 - Credential Dumping: Mimikatz, Dumpert, nanodump, forkatz, Pypykatz, LaZagne
 - Exfiltration: SharpExfiltrate, DNSExfiltrator, Egress-Access
 - Vulnerabilities: OpenVAS, w3af, Vuls, Nikto, Nessus
 - Networks: Wireshark, pfSense, Arkime, Ettercap, ArpSpoof, NetCat, dsniff, Scapy, hping3, Yersinia, maccanger, iproute2, thc-ssl-dos, Cutwail botnet, db1000n, MHDDoS
-- Password Security: John the Ripper, Hashcat, Crunch, Medusa, Hydra, Rainbowcrack, CeWL, crowbar, fcrackzip, Ophcrack, Patator
-- Mobile Security: Frida, Drozer, ANdroguard, MobSF, MASTG, NetHunter, Android Tamer, Apktool, Quark Engine, bettercap, Needle, ApkX
+- Password Security: John the Ripper, Hashcat, Crunch, Medusa, Hydra, Rainbowcrack, CeWL, crowbar, fcrackzip, Ophcrack, [Patator](https://github.com/lanjelot/patator)
+- Mobile Security: [Frida](https://frida.re), [Drozer](https://github.com/ReversecLabs/drozer), ANdroguard, [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF), [MASTG](https://mas.owasp.org/MASTG/), NetHunter, Android Tamer, Apktool, Quark Engine, bettercap, [Needle](https://github.com/ReversecLabs/needle), [ApkX](https://github.com/muellerberndt/apkx), [objection](https://github.com/sensepost/objection), [APKStudio](https://github.com/vaibhavpandeyvpz/apkstudio)
 - Reverse Engineering: Angr, [Ghidra](https://github.com/NationalSecurityAgency/ghidra), Radare2
 - Wireless Attacks: Kismet, Wifite, Aircrack-ng, airgeddon, WiFi Pumpkin, PixieWPS
 - Social Engineering: Gophish, SET, PhishX, King Phisher, EvilURL
@@ -658,7 +768,7 @@ Offensive Security:
 - Reporting: Faraday, Serpico, Dradis, DefectDojo, MagicTree, Lair-framework
 - Credentials: John the Ripper, Cain and Abel, Hashcat, Hydra, RainbowCrack, Medusa, Ncrack, CeWL, w3af, [Mimikatz](https://github.com/gentilkiwi/mimikatz), Patator
 - Exploitation: Metasploit, XSSer, SearchSploit, Pwntools, Exploit-DB, Commix, Ropper, ysoserial, ShellNoob, RouterSploit, BeEF, Armitage, sqlmap, jSQL Injection, PTF, SQL Ninja, Exploit Pack, Pupy
-- Post-Exploitation: Mimikatz, Koadic, Meterpreter, BeRoot, Pwncat, Dnscat2, Bloodhound, Pupy, Empire Project, BeRoot
+- Post-Exploitation: Mimikatz, Koadic, Meterpreter, BeRoot, Pwncat, Dnscat2, [Bloodhound](https://github.com/BloodHoundAD/Bloodhound), Pupy, [Empire Project](https://github.com/BC-SECURITY/Empire), [Empire](https://github.com/EmpireProject/Empire), BeRoot
 - Persistence: RDP, Apple Remote Desktop, VNC, X11 Forwarding
 
 # Google Dork Operators
@@ -689,6 +799,7 @@ Offensive Security:
 - inurl:"/private" intext:"index of /" "win64" -litespeed
 
 # Kali
+- https://www.kali.org/docs/general-use/metapackages/
 ```
 sudo apt-get update && sudo apt-get upgrade --fix-missing && sudo apt -y full-upgrade && sudo apt-get autoclean && sudo apt-get autoremove
 apt-get dist upgrade
