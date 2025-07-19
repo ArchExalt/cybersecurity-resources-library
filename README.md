@@ -51,6 +51,7 @@ Email and Phone Numbers:
 Temp Mail:
 - https://cryptogmail.com
 - https://temp-mail.org/
+- https://emkei.cz
 
 Email Analysis:
 - https://www.freeedbviewer.com
@@ -63,6 +64,26 @@ Phishing:
 - https://github.com/blark/cli-phisher
 - https://github.com/jaykali/maskphish
 - https://github.com/rsmusllp/king-phisher
+
+Enumeration:
+- dirbuster
+- https://github.com/OJ/gobuster
+- https://github.com/ffuf/ffuf
+- https://github.com/epi052/feroxbuste
+- fuzzer
+- https://github.com/cddmp/enum4linux-ng
+- http://pentestmonkey.net/tools/smtp-user-enum
+
+DNS Tunneling:
+- https://github.com/mdornseif/DeNiSe
+- https://github.com/alex-sector/dns2tcp
+- https://github.com/FedericoCeratto/dnscapy
+- https://github.com/iagox86/dnscat2
+- http://heyoka.sourceforge.net
+- https://code.kryo.se/iodine/
+- https://github.com/msantos/sods
+- https://pdfs.semanticscholar.org/0e28/637370748803bcefa5b89ce8b48cf0422adc.pdf
+- https://chrisdietri.ch/post/feederbot-botnet-using-dns-command-and-control/
 
 Dumps:
 - WhatBreach: https://github.com/Ekultek/WhatBreach
@@ -177,6 +198,8 @@ Malware:
 - https://www.hybrid-analysis.com/
 - https://github.com/malvuln/RansomLord
 - https://www.malwarebytes.com
+- https://github.com/marco-liberale/PasteBomb 
+- https://github.com/fabrimagic72/malware-samples 
 
 Foreign Resources:
 - https://molfar.com/useful-apps-registers
@@ -212,8 +235,9 @@ Opendata:
 - https://vkursi.pro/
 - https://usr.minjust.gov.ua/content/free-search  
 
-Archive:
+Archives:
 - https://archive.org
+- https://aleph.occrp.org
 - https://cachedview.nl
 
 Extraction:
@@ -319,10 +343,20 @@ Threat Intelligence:
 - https://censys.com
 - https://fullhunt.io
 - https://fofa.info
+- https://search.censys.io
 
 Vulnerabilities:
 - https://www.cve.org
 - https://vulners.com
+
+Vulnerability Scanners:
+- https://brakemanscanner.org
+- https://www.owasp.org/index.php/Category:Vulnerability_Scanning_Tools
+- https://wpscan.org/
+- https://github.com/nccgroup/ScoutSuite
+- https://wapiti.sourceforge.io/
+- https://github.com/andresriancho/w3af
+- https://www.open-scap.org/
 
 Threat Libraries:
 - https://abuse.ch 
@@ -335,7 +369,9 @@ Threat Libraries:
 - https://misp-galaxy.org/  
 - https://malpedia.caad.fkie.fraunhofer.de/actors 
 - https://github.com/TheCyberArcher/Awesome-cyber-criminal-list  
-- https://macos.checkpoint.com 
+- https://macos.checkpoint.com
+- https://www.malware-traffic-analysis.net/index.html
+- https://search.libraryofleaks.org/
 
 Opt out:
 - https://myactivity.google.com/dark-web-report/setup-profile
@@ -346,6 +382,7 @@ Opt out:
 - https://haveibeenpwned.com
 - https://www.accountkiller.com/en/all-sites
 - https://www.optery.com/opt-out-guides/
+- https://prism-break.org/en/
 - https://github.com/The-Osint-Toolbox/Privacy-Opt-Out
 
 Wi-Fi:
@@ -354,6 +391,18 @@ Wi-Fi:
 - https://www.acrylicwifi.com/en/wifi-analyzer/
 - https://www.ekahau.com/products/ekahau-connect/ai-pro/
 - https://play.google.com/store/apps/details?id=com.wilysis.cellinfolite
+- https://kismac-ng.org
+- https://github.com/derv82/wifite2
+- https://github.com/The-Art-of-Hacking/h4cker/blob/master/wireless_resources/virtual_adapters.md
+- https://github.com/s0lst1c3/eaphammer
+- https://github.com/aircrack-ng/mdk4
+- https://gitlab.com/kalilinux/packages/reaver
+- https://gitlab.com/kalilinux/packages/fern-wifi-cracker
+
+Bluetooth:
+- https://gitlab.com/kalilinux/packages/spooftooph
+- https://github.com/securing/gattacker
+- bluesnarfer
 
 Attacks:
 - https://github.com/Err0r-ICA/Ransomware
@@ -361,6 +410,16 @@ Attacks:
 - https://itarmy.com.ua/instruction/
 - https://cyberarmy.com.ua/?docs=windows/ddos-tools
 - https://github.com/topics/ddos-attack-tools
+- https://github.com/swisskyrepo/PayloadsAllTheThings  
+- https://swisskyrepo.github.io/InternalAllTheThings/  
+- https://swisskyrepo.github.io/HardwareAllTheThings/
+
+Keyloggers:
+- https://www.keelog.com/ua/keylogger/
+- Ardamax Keylogger
+- Spyrix
+- EliteKeylogger
+- KeyGrabber USB
 
 Payloads:
 - https://payloadhub.com/blogs/payloads
@@ -441,6 +500,14 @@ System Tools:
 - https://labs.ece.uw.edu/nsl/students/alomair/LB-Arabic/general/forensic-tools/index.html
 - https://www.aida64.com/downloads
 - https://www.ccleaner.com/speccy/download
+
+Debugging Tools:
+- https://sourceware.org/gdb/
+- https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/
+- https://www.ollydbg.de
+- https://github.com/eteran/edb-debugger
+- https://hex-rays.com/ida-free
+- objdump, IDA, Ghidra, radare2, Binary Ninja, OllyDbg
 
 Compilations:
 - https://www.molfar.global/useful-apps
@@ -564,7 +631,7 @@ Defensive Security:
 - Backups: Déjà Dup, luckyBackup 
 - Encryption/Cryptography: openssl, gpg, dm-crypt, fscrypt, EncFS, cryptsetup, Veracrypt, Gocryptfs, eCryptfs, SecureFS
 - Secure Shell: openssh, SSHGuard, DenyHosts, Knockd, Fail2ban, putty
-- Password Security: John the Ripper, Hashcat, KeePassXC, pwgen, GoPass, epasswd
+- Password Security: John the Ripper, [Hashcat](https://hashcat.net/wiki/doku.php?id=hashcat), KeePassXC, pwgen, GoPass, epasswd
 - VPN: IPsec, strongSwan, OpenVPN, WireGuard, Libreswan, SoftEther
 - Patch Manager: Spacewalk, Katello, RH Satellite, Landscape, NinjaOne
 - Network Monitoring: Wireshark, Scapy, tcpdump, tshark
@@ -577,20 +644,22 @@ Defensive Security:
 - Containers: Docker Bench, Calico, Clair, gVisor, Grafeas, Falco, Dagda, Cilium, Dockle
 
 Offensive Security: 
-- Reconnaissance: Recon-ng, theHarvester, Nmap, Zenmap, DNSRecon, Netdiscover, Maltego, p0f, Zmap, Masscan, Unicornscan, sqlmap, RustScan, Amass,  
+- Reconnaissance: [recon-ng](https://github.com/lanmaster53/recon-ng), theHarvester, Nmap, Zenmap, DNSRecon, Netdiscover, Maltego, p0f, Zmap, Masscan, Unicornscan, sqlmap, RustScan, Amass,  
 - Credential Dumping: Mimikatz, Dumpert, nanodump, forkatz, Pypykatz, LaZagne
 - Exfiltration: SharpExfiltrate, DNSExfiltrator, Egress-Access
 - Vulnerabilities: OpenVAS, w3af, Vuls, Nikto, Nessus
 - Networks: Wireshark, pfSense, Arkime, Ettercap, ArpSpoof, NetCat, dsniff, Scapy, hping3, Yersinia, maccanger, iproute2, thc-ssl-dos, Cutwail botnet, db1000n, MHDDoS
-- Password Security: John the Ripper, Hashcat, Crunch, Medusa, Hydra, Rainbowcrack, CeWL, crowbar, fcrackzip, Ophcrack, Patator,
-- Mobile Security: Frida, Drozer, ANdroguard, MobSF, MASTG, NetHunter, Android Tamer, Apktool, Quark Engine, bettercap
-- Reverse Engineering: Angr, Ghidra, Radare2
+- Password Security: John the Ripper, Hashcat, Crunch, Medusa, Hydra, Rainbowcrack, CeWL, crowbar, fcrackzip, Ophcrack, Patator
+- Mobile Security: Frida, Drozer, ANdroguard, MobSF, MASTG, NetHunter, Android Tamer, Apktool, Quark Engine, bettercap, Needle, ApkX
+- Reverse Engineering: Angr, [Ghidra](https://github.com/NationalSecurityAgency/ghidra), Radare2
 - Wireless Attacks: Kismet, Wifite, Aircrack-ng, airgeddon, WiFi Pumpkin, PixieWPS
 - Social Engineering: Gophish, SET, PhishX, King Phisher, EvilURL
 - Pentesting: Burp Suite, OWASP ZAP, Arachni, Wfull, Skipfish, Cobalt Strike
 - Reporting: Faraday, Serpico, Dradis, DefectDojo, MagicTree, Lair-framework
+- Credentials: John the Ripper, Cain and Abel, Hashcat, Hydra, RainbowCrack, Medusa, Ncrack, CeWL, w3af, [Mimikatz](https://github.com/gentilkiwi/mimikatz), Patator
 - Exploitation: Metasploit, XSSer, SearchSploit, Pwntools, Exploit-DB, Commix, Ropper, ysoserial, ShellNoob, RouterSploit, BeEF, Armitage, sqlmap, jSQL Injection, PTF, SQL Ninja, Exploit Pack, Pupy
 - Post-Exploitation: Mimikatz, Koadic, Meterpreter, BeRoot, Pwncat, Dnscat2, Bloodhound, Pupy, Empire Project, BeRoot
+- Persistence: RDP, Apple Remote Desktop, VNC, X11 Forwarding
 
 # Google Dork Operators
 - https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06
