@@ -92,6 +92,22 @@ Dumps:
 - Scavenger: https://github.com/rndinfosecguy/Scavenger
 - PwnDB: https://github.com/davidtavarez/pwndb
 - h8mail: https://github.com/khast3x/h8mail
+- https://github.com/MagnetForensics/dumpit-linux
+
+Security Check:
+- https://checkshorturl.com
+- https://www.urlvoid.com
+- https://safeweb.norton.com
+- https://transparencyreport.google.com
+- https://any.run
+- https://mxtoolbox.com/emailhealth/  
+- https://lots-project.com/
+- https://www.virustotal.com/gui/home/upload
+- https://haveibeenpwned.com
+
+Browsers:
+- https://github.com/eLoopWoo/chrome-url-dumper
+- https://github.com/obsidianforensics/hindsight
 
 Source Code:
 - https://grep.app
@@ -262,6 +278,7 @@ Archives:
 - https://archive.org
 - https://aleph.occrp.org
 - https://cachedview.nl
+- https://lumendatabase.org
 
 Extraction:
 - https://github.com/Drew-Alleman/DataSurgeon 
@@ -329,8 +346,20 @@ Frameworks:
 - https://oxygenforensics.com/en/products/oxygen-forensic-detective/
 - https://www.sleuthkit.org/autopsy/
 
-Dumps:
-- https://github.com/MagnetForensics/dumpit-linux
+Artifacts:
+- https://github.com/SekoiaLab/Fastir_Collector
+- https://www.pinguin.lu/fred
+- https://github.com/PoorBillionaire/USN-Journal-Parser
+- https://github.com/Lazza/RecuperaBit
+
+Forensics:
+- https://github.com/arxsys/dff
+- https://hackyourmom.com/en/kibervijna/instrumenty-dlya-kompyuternoyi-kryminalistyky-forenzyky/
+- https://digital-forensics.sans.org/community/downloads
+- https://sumuri.com/software/paladin/
+- https://www.autopsy.com
+- https://www.sleuthkit.org
+- https://xpertforensics.in/anti-forensics-techniques/
 
 RAM Analysis:
 - https://github.com/friendlyJLee/pmdump
@@ -380,6 +409,7 @@ Vulnerability Scanners:
 - https://wapiti.sourceforge.io/
 - https://github.com/andresriancho/w3af
 - https://www.open-scap.org/
+- https://github.com/six2dez/reconftw
 
 Threat Libraries:
 - https://abuse.ch 
@@ -396,6 +426,7 @@ Threat Libraries:
 - https://www.malware-traffic-analysis.net/index.html
 - https://search.libraryofleaks.org/
 - https://isc.sans.edu
+- https://www.exploit-db.com 
 
 News:
 - https://cert.gov.ua/articles
@@ -405,6 +436,8 @@ News:
 - https://www.securityweek.com
 - https://www.technewsworld.com
 - https://therecord.media/news/cybercrime
+- https://news.ycombinator.com/news
+- https://onehack.us
 
 Analytic materials:
 - https://cip.gov.ua/ua/statics/analitichni-materiali-derzhspeczv-yazku
@@ -423,6 +456,16 @@ Opt out:
 - https://www.optery.com/opt-out-guides/
 - https://prism-break.org/en/
 - https://github.com/The-Osint-Toolbox/Privacy-Opt-Out
+
+Misc Networking:
+- https://www.whatismyip.com
+- https://angryip.org
+- https://github.com/tecknicaltom/dsniff
+- https://www.winpcap.org/windump/
+- https://www.netresec.com/?page=NetworkMiner
+- [Wireshark](https://www.wireshark.org), tshark, netstat
+- https://github.com/byt3bl33d3r/CrackMapExec
+- https://github.com/hrbrmstr/silk/tree/master
 
 Wi-Fi:
 - https://wigle.net
@@ -443,15 +486,18 @@ Bluetooth:
 - https://github.com/securing/gattacker
 - bluesnarfer
 
-Attacks:
+Various Attacks:
 - https://github.com/Err0r-ICA/Ransomware
 - https://github.com/topics/email-bomber
 - https://itarmy.com.ua/instruction/
 - https://cyberarmy.com.ua/?docs=windows/ddos-tools
 - https://github.com/topics/ddos-attack-tools
-- https://github.com/swisskyrepo/PayloadsAllTheThings  
+- https://github.com/tomac/yersinia
+- https://github.com/nottinghamprisateam/pyersinia - DDoS
+- https://github.com/swisskyrepo/PayloadsAllTheThings - DDoS
 - https://swisskyrepo.github.io/InternalAllTheThings/  
 - https://swisskyrepo.github.io/HardwareAllTheThings/
+- https://www.ettercap-project.org - MitM
 
 Keyloggers:
 - https://www.keelog.com/ua/keylogger/
@@ -469,7 +515,8 @@ Windows:
 - https://windirstat.net
 - https://www.microsoft.com/en-us/download/details.aspx?id=50034
 - https://massgrave.dev
-- https://github.com/lassehauballe/Eternalblue 
+- https://github.com/lassehauballe/Eternalblue
+- https://www.shadowexplorer.com
 
 Lock Screen:
 - https://www.kalilinux.in/2020/05/lockphish.html
@@ -606,6 +653,19 @@ Fuzzers:
 - https://github.com/calebstewart/peach
 - https://github.com/Cisco-Talos/mutiny-fuzzer
 
+PowerShell:
+- https://learn.microsoft.com/en-us/powershell/scripting/samples/sample-scripts-for-administration?view=powershell-7.4
+- https://github.com/bitsadmin/nopowershell
+- https://github.com/PowerShellMafia/PowerSploit
+
+Misc OSINT:
+- https://hunch.ly
+- https://osintkit.net
+- https://scanbe.io
+- https://n9.cl/mjw12q
+- https://www.fakenamegenerator.com/
+- https://thispersondoesnotexist.com/
+
 Compilations:
 - https://www.molfar.global/useful-apps
 - https://osintframework.com
@@ -634,6 +694,9 @@ Compilations:
 - https://github.com/The-Art-of-Hacking
 - https://www.blackhatethicalhacking.com/articles/reverse-engineering-hacking-tools/ 
 - https://github.com/The-Art-of-Hacking/h4cker/tree/master/osint
+- https://bellingcat.gitbook.io/toolkit
+- https://truth-hounds.org/compendium/
+- https://inteltechniques.com/tools/index.html
 
 CTF Tools:
 - https://crackstation.net - password hash cracker
@@ -657,9 +720,12 @@ CTF Tools:
 - https://mh-nexus.de/en/hxd/ - hex editor
 - [CTF Tools](https://www.linkedin.com/posts/activity-7114361258203635712-mmyR?utm_source=share&utm_medium=member_desktop)
 
-Misc:
+AI:
+- https://www.aixploria.com/en/ultimate-list-ai/ 
 - https://chatgpt.com/g/g-mGe6Ny2Ej-cybersecurity-nmap-wireshark-metasploit-snort
 - https://chatgpt.com/g/g-kox62b9Hu-cybgpt-cyber-security-cybersecurity
+
+Misc:
 - [Subnet Calculator](https://www.davidc.net/sites/default/subnets/subnets.html)
 - [Free Web Proxy](https://www.proxysite.com)
 - [Encrypted File Sharing](https://sendfilesencrypted.com)
@@ -676,17 +742,22 @@ Misc:
 - [GDPR Documentation Toolkit](https://advisera.com/toolkits/eu-gdpr-documentation-toolkit/)
 - [Router Passwords](https://portforward.com/router-password/)
 - [Linux Kernel parameters](https://docs.kernel.org/networking/ip-sysctl.html)
-- https://news.ycombinator.com/news
+- [Windows Events to Monitor](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/appendix-l--events-to-monitor)
 - https://bellard.org/jslinux/
 - Windows GodMode: GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}
 
-# Courses, Labs and Education
+# Practical Labs and Education
 - [Interview Questions and Answers](https://globalguideline.com/interviews)
 - https://www.sans.org/posters/
+- https://github.com/hackthebox/cyber-apocalypse-2025
 - https://github.com/brootware/awesome-cyber-security-university
 - https://roadmap.sh/cyber-security
 - https://neetcode.io
-- https://tryhackme.com
+- https://tryhackme.com/r/hacktivities 
+- https://www.hackthebox.com
+- https://blueteamlabs.online 
+- https://www.virtualhackinglabs.com 
+- https://academy.hackthebox.com 
 - https://ctf.hacker101.com
 - https://overthewire.org/wargames/
 - https://sourcing.games
@@ -698,7 +769,6 @@ Misc:
 - https://picoctf.org/index.html#picogym
 - https://www.hacksplaining.com/lessons
 - https://www.letsdefend.io
-- https://www.netacad.com
 - [HackTricks](https://book.hacktricks.xyz/welcome/readme)
 - [Free ISO/IEC](https://t.me/isoforfree)
 - [Top 100 Free Red Team Tools](https://www.codelivly.com/master-the-art-of-red-teaming-with-the-top-100-free-red-team-tools/)
@@ -712,7 +782,70 @@ Misc:
 - https://ctf.hackthebox.com  
 - https://www.hackthebox.com/machines 
 - https://overthewire.org/wargames/ 
-- https://crackmes.one  
+- https://crackmes.one
+- https://u.cisco.com/challenges
+- https://learn.fortiphyd.com
+- https://www.vulnhub.com
+- https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all
+- https://demo.mt.lv
+- https://play.instruqt.com/embed/redhat/tracks/writing-first-playbook
+- https://leetcode.com 
+- https://learngitbranching.js.org
+- https://pnetlab.com/
+- https://www.geoguessr.com
+- https://sourcing.games
+- https://openguessr.com
+
+# Courses, Materials and Education
+- https://github.com/vinta/awesome-python
+- https://www.examcompass.com 
+- https://www.cyberseek.org/pathway.html
+- https://www.cybrary.it 
+- https://publish.obsidian.md/addielamarr/00+Home+MOC 
+- https://www.sans.org/mlp/free-cybersecurity-events/ 
+- https://infosec-conferences.com 
+- https://niccs.cisa.gov/workforce-development/cyber-career-pathways-tool
+- https://itexamanswers.net/ccna-2-v7-0-curriculum-module-2-switching-concepts.html
+- https://echothislabs.com/course/index.php?categoryid=1
+- https://ua.udemy.com/course/mikrotik-network-associate-with-labs/
+- https://ua.udemy.com/course/nist-cybersecurity-framework/
+- https://mikrotik.ua/course/mtcna-online-offline/254
+- https://github.com/nixawk/pentest-wiki
+- https://iha089.org
+- https://microsoft.github.io/SOC/source/content/
+- https://github.com/markets/awesome-ruby
+- https://github.com/nipunjaswal/networkforensics
+- https://aws.amazon.com/architecture/well-architected/
+- https://learn.microsoft.com/en-us/azure/well-architected/
+- https://forensics.wiki
+- https://explore.skillbuilder.aws/learn/signin - AWS Cloud Certifications
+- https://learn.microsoft.com/en-us/training/azure/ - Microsoft Learn for Azure
+- https://cloud.google.com/learn/training - Google Cloud Training
+- https://digitaldefynd.com/best-ccna-security-courses/ - CCNA Security Courses
+- https://codered.eccouncil.org/course/network-defense-essentials - Network Defense Essentials by EC Council
+- https://codered.eccouncil.org/course/ethical-hacking-essentials - Ethical Hacking Essentials by EC Council
+- https://codered.eccouncil.org/course/digital-forensics-essentials - Digital Forensics Essentials by EC Council
+- https://www.isc2.org/Certifications/ - Certifications by ISC2
+- https://www.splunk.com/en_us/training/free-courses/overview.html - Splunk
+- https://training.linuxfoundation.org/training/developing-secure-software-lfd121/ - Secure Software Development
+- https://www.classcentral.com/course/software-security-1728 - Maryland Software Security
+- https://www.classcentral.com/course/youtube-stanford-seminar-engineering-cyber-resiliency-a-pragmatic-approach-110018/classroom - Stanford Cyber Resiliency
+- https://arcx.io/courses/cyber-threat-intelligence-101 - Cyber Threat Intelligence
+- https://www.netacad.com/courses/ - Courses by Cisco
+- https://training.fortinet.com/ - Network Security Essentials by Fortinet
+- https://www.open.edu/openlearn/science-maths-technology/information-security?active-tab=description-tab - Information Security by OpenLearn
+- https://www.open.edu/openlearn/digital-computing/network-security?active-tab=description-tab - Network Security by OpenLearn
+- https://www.open.edu/openlearn/money-business/risk-management?active-tab=description-tab - Risk Management by Open Learn
+- https://www.udacity.com/course/intro-to-information-security--ud459 - Intro to Information Security by Udacity
+- https://www.udacity.com/course/network-security--ud199 - Network Security by Udacity
+- https://codered.eccouncil.org/course/introduction-to-dark-web-anonymity-and-cryptocurrency - Dark Web, Anonymity, and Cryptocurrency by EC Council
+- https://www.open.edu/openlearn/science-maths-technology/digital-forensics?active-tab=description-tab - Digital Forensics by Open Learn
+- https://codered.eccouncil.org/course/android-bug-bounty-hunting-hunt-like-a-rat - Android Bug Bounty Hunting: Hunt Like a Rat
+- https://www.qualys.com/training/ - Vulnerability Management
+- https://www.classcentral.com/course/software-security-1728 - Software Security
+- https://training.linuxfoundation.org/training/developing-secure-software-lfd121/ - Developing Secure Software
+- https://taggartinstitute.org/p/responsible-red-teaming - RedTeaming
+- https://www.nist.gov/cyberframework 
 
 # Books
 - [Reverse Engineering for Beginners](https://github.com/Cactus-proj/RE-for-Beginners/releases/download/v1.0.0/RE4B-EN.pdf)
@@ -729,31 +862,35 @@ Misc:
 
 # Blue Team & Red Team Tools
 Defensive Security: 
+- https://d3fend.mitre.org
+- https://airtable.com/app37L1lMD9SoMzn4/shr0dETA6L3yxezjt/tblHGK8EwVCZLE6Mw?viewControls=on
 - Firewalls: iptables, firewalld, ufw, Guarddog, Vuurmuur, Gufw, Shorewall, nftables, Firewall Builder
 - Security Auditing: auditd, openSCAP, openVAS, Nmap, [Nikto](https://github.com/sullo/nikto), Zenmap, SpiderFoot, skipfish, Nessus, Nexpose, [OpenVAS](https://www.openvas.org)
 - Malware Detection: chkrootkit, rkhunter, Lynis, LMD
 - Access Control: SELinux, AppArmor, Smack, Grsecurity, Yama, chkacct, tiger, PAM
 - Sandboxing: Bubblewrap, Seccomp, Firejail, Flatpak, Snappy, Chroot Jail, [CuckooSandbox](https://github.com/cuckoosandbox)
-- IDS/IPS/SIEM: Snort, Suricata, Zeek, OSSEC, AIDE, Security Onion, OSSIM, CrowdSec, Kismet, Wazuh, splunk, LogRhythm
+- IDS/IPS/SIEM: Snort, Suricata, [Zeek](https://zeek.org), OSSEC, AIDE, Security Onion, OSSIM, CrowdSec, Kismet, Wazuh, splunk, LogRhythm
 - File Integrity Monitoring: Tripwire, Auditd, Auditbeat, Samhain, OSSEC, Wazuhm Osquery, Atomic OSSEC
 - Antivirus: CrowdStrike, ClamAV, Rspamd
 - Log Monitoring: Logwatch, ELK Stack, Netdata, logwatch, Graylog, Sagan, Fluentd, OpenObserve, Dynatrace, logcheck, syslog-ng 
 - Backups: Déjà Dup, luckyBackup 
-- Encryption/Cryptography: openssl, gpg, dm-crypt, fscrypt, EncFS, cryptsetup, Veracrypt, Gocryptfs, eCryptfs, SecureFS
+- Encryption/Cryptography: openssl, gpg, dm-crypt, fscrypt, EncFS, cryptsetup, Veracrypt, Gocryptfs, eCryptfs, SecureFS, bcrypt, argon2, [RSA](https://www.devglan.com/online-tools/rsa-encryption-decryption)
 - Secure Shell: openssh, SSHGuard, DenyHosts, Knockd, Fail2ban, putty
 - Password Security: John the Ripper, [Hashcat](https://hashcat.net/wiki/doku.php?id=hashcat), KeePassXC, pwgen, GoPass, epasswd
 - VPN: IPsec, strongSwan, OpenVPN, WireGuard, Libreswan, SoftEther
 - Patch Manager: Spacewalk, Katello, RH Satellite, Landscape, NinjaOne
-- Network Monitoring: Wireshark, Scapy, tcpdump, tshark
+- Network Monitoring: Wireshark, Scapy, [tcpdump](https://github.com/the-tcpdump-group/tcpdump), tshark
 - WAF: ModSecurity, NAXSI, BunkerWeb, Coraza, open-appsec
 - Honeypots: Kippo, Cowrie, Dockpot, HonSSH
 - EDR: Cortex XDR, Cynet360, FortiEDR
 - Incident Management: TheHive, GRR Rapid Response
 - Threat Intelligence: Misp, MSTICPy
+- Mail Security: [Proxmox](https://www.proxmox.com/en/downloads)
 - OS Analysis: HELK, Volatility, RegRipper, osquery
 - Containers: Docker Bench, Calico, Clair, gVisor, Grafeas, Falco, Dagda, Cilium, Dockle
 
 Offensive Security: 
+- https://attack.mitre.org
 - Reconnaissance: [recon-ng](https://github.com/lanmaster53/recon-ng), theHarvester, Nmap, [Zenmap](https://nmap.org/zenmap/), DNSRecon, Netdiscover, Maltego, p0f, Zmap, Masscan, Unicornscan, sqlmap, RustScan, Amass,  
 - Credential Dumping: Mimikatz, Dumpert, nanodump, forkatz, Pypykatz, LaZagne
 - Exfiltration: SharpExfiltrate, DNSExfiltrator, Egress-Access
@@ -766,10 +903,11 @@ Offensive Security:
 - Social Engineering: Gophish, SET, PhishX, King Phisher, EvilURL
 - Pentesting: Burp Suite, OWASP ZAP, Arachni, Wfull, Skipfish, Cobalt Strike
 - Reporting: Faraday, Serpico, Dradis, DefectDojo, MagicTree, Lair-framework
-- Credentials: John the Ripper, Cain and Abel, Hashcat, Hydra, RainbowCrack, Medusa, Ncrack, CeWL, w3af, [Mimikatz](https://github.com/gentilkiwi/mimikatz), Patator
+- Credentials: John the Ripper, Cain and Abel, Hashcat, Hydra, RainbowCrack, Medusa, Ncrack, CeWL, w3af, [Mimikatz](https://github.com/gentilkiwi/mimikatz), Patator, [Brute-X](https://github.com/Cyberboysatyam/Brute-X)
 - Exploitation: Metasploit, XSSer, SearchSploit, Pwntools, Exploit-DB, Commix, Ropper, ysoserial, ShellNoob, RouterSploit, BeEF, Armitage, sqlmap, jSQL Injection, PTF, SQL Ninja, Exploit Pack, Pupy
 - Post-Exploitation: Mimikatz, Koadic, Meterpreter, BeRoot, Pwncat, Dnscat2, [Bloodhound](https://github.com/BloodHoundAD/Bloodhound), Pupy, [Empire Project](https://github.com/BC-SECURITY/Empire), [Empire](https://github.com/EmpireProject/Empire), BeRoot
 - Persistence: RDP, Apple Remote Desktop, VNC, X11 Forwarding
+- Evasion: [Veil](https://github.com/veil-framework), [TOR](https://www.torproject.org/download/)
 
 # Google Dork Operators
 - https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06
