@@ -114,6 +114,9 @@ Source Code:
 - https://searchcode.com
 - https://publicwww.com
 
+People:
+- https://bigbookname.com/
+
 Usernames:
 - https://github.com/TheYahya/enola
 - https://github.com/WebBreacher/WhatsMyName/blob/main/INSTALLATION.md
@@ -498,6 +501,7 @@ Various Attacks:
 - https://swisskyrepo.github.io/InternalAllTheThings/  
 - https://swisskyrepo.github.io/HardwareAllTheThings/
 - https://www.ettercap-project.org - MitM
+- packetforge-ng, scapy - Packets
 
 Keyloggers:
 - https://www.keelog.com/ua/keylogger/
@@ -544,6 +548,7 @@ Cloud/Containers:
 - https://github.com/0xsha/CloudBrute
 - https://github.com/RhinoSecurityLabs/pacu
 - https://cloudcustodian.io
+- https://rclone.org
 
 Wordlist Compilers:
 - https://github.com/D4Vinci/elpscrk
@@ -658,6 +663,13 @@ PowerShell:
 - https://github.com/bitsadmin/nopowershell
 - https://github.com/PowerShellMafia/PowerSploit
 
+Disk Images:
+- https://www.exterro.com/ftk-product-downloads/ftk-imager-4-7-3-81
+- https://github.com/orlikoski/Skadi
+- https://github.com/ralphje/imagemounter
+- https://www.caine-live.net
+- dc3dd, dcfldd, guymager, Acronis True Image, libewf, xmount
+
 Misc OSINT:
 - https://hunch.ly
 - https://osintkit.net
@@ -665,6 +677,10 @@ Misc OSINT:
 - https://n9.cl/mjw12q
 - https://www.fakenamegenerator.com/
 - https://thispersondoesnotexist.com/
+
+Metasploit:
+- https://github.com/rpranshu/Autopwn 
+- https://github.com/fozavci/viproy-voipkit
 
 Compilations:
 - https://www.molfar.global/useful-apps
@@ -697,6 +713,7 @@ Compilations:
 - https://bellingcat.gitbook.io/toolkit
 - https://truth-hounds.org/compendium/
 - https://inteltechniques.com/tools/index.html
+- https://ericzimmerman.github.io/#!index.md
 
 CTF Tools:
 - https://crackstation.net - password hash cracker
@@ -724,6 +741,7 @@ AI:
 - https://www.aixploria.com/en/ultimate-list-ai/ 
 - https://chatgpt.com/g/g-mGe6Ny2Ej-cybersecurity-nmap-wireshark-metasploit-snort
 - https://chatgpt.com/g/g-kox62b9Hu-cybgpt-cyber-security-cybersecurity
+- https://github.com/Cinnamon/kotaemon
 
 Misc:
 - [Subnet Calculator](https://www.davidc.net/sites/default/subnets/subnets.html)
@@ -745,6 +763,10 @@ Misc:
 - [Windows Events to Monitor](https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/appendix-l--events-to-monitor)
 - https://bellard.org/jslinux/
 - Windows GodMode: GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}
+- https://www.iban.com/iban-checker
+- [CoreRuleSet for ModSecurity](https://github.com/coreruleset/coreruleset)
+- [MAC Vendors](https://macvendors.com)
+- [Ultra Security](https://geekupdates.notion.site/Ultra-Security-10d735bd8a9d8029a00ae64ede03f4ca)
 
 # Practical Labs and Education
 - [Interview Questions and Answers](https://globalguideline.com/interviews)
@@ -812,6 +834,7 @@ Misc:
 - https://mikrotik.ua/course/mtcna-online-offline/254
 - https://github.com/nixawk/pentest-wiki
 - https://iha089.org
+- https://yak.dslua.org
 - https://microsoft.github.io/SOC/source/content/
 - https://github.com/markets/awesome-ruby
 - https://github.com/nipunjaswal/networkforensics
@@ -873,21 +896,23 @@ Defensive Security:
 - File Integrity Monitoring: Tripwire, Auditd, Auditbeat, Samhain, OSSEC, Wazuhm Osquery, Atomic OSSEC
 - Antivirus: CrowdStrike, ClamAV, Rspamd
 - Log Monitoring: Logwatch, ELK Stack, Netdata, logwatch, Graylog, Sagan, Fluentd, OpenObserve, Dynatrace, logcheck, syslog-ng 
-- Backups: Déjà Dup, luckyBackup 
+- Backups: Déjà Dup, luckyBackup
+- Configurations: Ansible, Chef, Puppet, Salt Project, Terraform 
 - Encryption/Cryptography: openssl, gpg, dm-crypt, fscrypt, EncFS, cryptsetup, Veracrypt, Gocryptfs, eCryptfs, SecureFS, bcrypt, argon2, [RSA](https://www.devglan.com/online-tools/rsa-encryption-decryption)
 - Secure Shell: openssh, SSHGuard, DenyHosts, Knockd, Fail2ban, putty
 - Password Security: John the Ripper, [Hashcat](https://hashcat.net/wiki/doku.php?id=hashcat), KeePassXC, pwgen, GoPass, epasswd
 - VPN: IPsec, strongSwan, OpenVPN, WireGuard, Libreswan, SoftEther
-- Patch Manager: Spacewalk, Katello, RH Satellite, Landscape, NinjaOne
+- Patch Management: Spacewalk, Katello, RH Satellite, Landscape, NinjaOne
 - Network Monitoring: Wireshark, Scapy, [tcpdump](https://github.com/the-tcpdump-group/tcpdump), tshark
 - WAF: ModSecurity, NAXSI, BunkerWeb, Coraza, open-appsec
 - Honeypots: Kippo, Cowrie, Dockpot, HonSSH
 - EDR: Cortex XDR, Cynet360, FortiEDR
-- Incident Management: TheHive, GRR Rapid Response
-- Threat Intelligence: Misp, MSTICPy
+- Incident Management: [TheHive](https://github.com/TheHive-Project/TheHive), GRR Rapid Response, [VERIS](https://github.com/vz-risk/veris)
+- Threat Intelligence: MISP, MSTICPy
 - Mail Security: [Proxmox](https://www.proxmox.com/en/downloads)
 - OS Analysis: HELK, Volatility, RegRipper, osquery
 - Containers: Docker Bench, Calico, Clair, gVisor, Grafeas, Falco, Dagda, Cilium, Dockle
+- API: [Postman](https://www.postman.com/product/tools/)
 
 Offensive Security: 
 - https://attack.mitre.org
@@ -907,6 +932,8 @@ Offensive Security:
 - Exploitation: Metasploit, XSSer, SearchSploit, Pwntools, Exploit-DB, Commix, Ropper, ysoserial, ShellNoob, RouterSploit, BeEF, Armitage, sqlmap, jSQL Injection, PTF, SQL Ninja, Exploit Pack, Pupy
 - Post-Exploitation: Mimikatz, Koadic, Meterpreter, BeRoot, Pwncat, Dnscat2, [Bloodhound](https://github.com/BloodHoundAD/Bloodhound), Pupy, [Empire Project](https://github.com/BC-SECURITY/Empire), [Empire](https://github.com/EmpireProject/Empire), BeRoot
 - Persistence: RDP, Apple Remote Desktop, VNC, X11 Forwarding
+- DNS: dig, dnsrecon, [dnsx](https://github.com/projectdiscovery/dnsx)
+- C2: Socat, Twittor, [WSC2](https://github.com/Arno0x/WSC2)
 - Evasion: [Veil](https://github.com/veil-framework), [TOR](https://www.torproject.org/download/)
 
 # Google Dork Operators
@@ -935,6 +962,26 @@ Offensive Security:
 - пошук файлів баз даних - filetype:sql intext:"CREATE TABLE" 
 - пошук конфіденційних файлів - filetype:xls site:example.com "password" 
 - inurl:"/private" intext:"index of /" "win64" -litespeed
+
+# Ukrainian Cybersecurity Documents:
+- [Методичні рекомендації щодо підвищення рівня кіберзахисту критичної інформаційної інфраструктури (№601)](https://cip.gov.ua/ua/news/kiberzakhist-iks-ta-okii)
+- [Деякі питання розробки, затвердження та погодження планів захисту об’єктів критичної інфраструктури за проектною загрозою національного рівня «кібератака кіберінцидент» (№627/772)](https://cip.gov.ua/ua/news/kiberzakhist-iks-ta-okii)
+- [План реагування на кіберінциденти та кібератаки (№299)](https://zakon.rada.gov.ua/laws/show/299-2023)
+- [Методичні рекомендації щодо реагування суб’єктами забезпечення кібербезпеки на різні види подій у кіберпросторі (№570)](https://cip.gov.ua/ua/news/nakaz-administraciyi-derzhspeczv-yazku-vid-03-07-2023-570-pro-zatverdzhennya-metodichnikh-rekomendacii-shodo-reaguvannya-sub-yektami-zabezpechennya-kiberbezpeki-na-rizni-vidi-podii-u-kiberprostori)
+- [Документи міжнародних організацій та країн-партнерів у сфері кіберзахисту](https://cip.gov.ua/ua/news/perelik-dokumentiv-mizhnarodnikh-organizacii-ta-krayin-partneriv-u-sferi-kiberzakhistu)
+- [Про затвердження Загальних вимог до кіберзахисту об’єктів критичної інфраструктури](https://zakon.rada.gov.ua/laws/show/518-2019-п)
+- [Інструмент оцінки кібербезпеки CSET](https://csirt.csi.cip.gov.ua/uk/pages/cset)
+- [Рекомендації CERT-UA](https://cert.gov.ua/recommendations)
+- [Про затвердження Базових заходів з кіберзахисту та Методичних рекомендацій щодо здійснення базових заходів з кіберзахисту (№54)](https://cip.gov.ua/ua/news/nakaz-administraciyi-derzhspeczv-yazku-vid-30-01-2025-54-pro-zatverdzhennya-bazovikh-zakhodiv-z-kiberzakhistu-ta-metodichnikh-rekomendacii-shodo-zdiisnennya-bazovikh-zakhodiv-z-kiberzakhistu)
+- [Нормативні документи системи ТЗІ](https://cip.gov.ua/ua/news/normativni-dokumenti-sistemi-tzi2024)
+- [Закон України «Про внесення змін до деяких законів України щодо захисту інформації та кіберзахисту державних інформаційних ресурсів, об’єктів критичної інформаційної інфраструктури»](https://zakon.rada.gov.ua/laws/show/4336-20#Text)
+- [Закон України «Про інформацію»](zakon.rada.gov.ua/laws/show/2657-12)
+- [Закон України «Про захист інформації в інформаційно-комунікаційних системах»](https://zakon.rada.gov.ua/laws/show/80/94-вр#Text)
+- [Закон України «Про основні засади забезпечення кібербезпеки України»](https://zakon.rada.gov.ua/laws/show/2163-19#Text)
+- [Про затвердження Правил забезпечення захисту інформації в інформаційних, електронних комунікаційних та інформаційно-комунікаційних системах](https://zakon.rada.gov.ua/laws/show/373-2006-п#Text)
+- [Деякі питання захисту інформаційних, електронних комунікаційних, інформаційно-комунікаційних, технологічних систем](https://zakon.rada.gov.ua/laws/show/712-2025-п#Text)
+- [Про затвердження Положення про організаційно-технічну модель кіберзахисту](https://zakon.rada.gov.ua/laws/show/1426-2021-п#Text)
+
 
 # Kali
 - https://www.kali.org/docs/general-use/metapackages/
