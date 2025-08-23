@@ -59,6 +59,9 @@ Email Analysis:
 - https://www.mitec.cz/mailview.html
 - https://www.systoolsgroup.com/ost-viewer.html
 - https://www.systoolsgroup.com/pst-viewer.html
+- https://toolbox.googleapps.com/apps/main
+- https://mailheader.org
+- https://www.iptrackeronline.com
 
 Phishing:
 - https://github.com/blark/cli-phisher
@@ -146,6 +149,10 @@ Vehicle Recognition:
 - https://bidfax.info
 - https://ua.carplates.app/
 
+Traffic:
+- https://www.marinetraffic.com
+- https://www.flightradar24.com
+
 Instagram:
 - https://inflact.com/tools/instagram-search/
 - https://storiesig.ninja/storiesdown/
@@ -167,6 +174,7 @@ Net/Servers:
 - https://leakix.net
 - https://app.netlas.io/host/
 - https://www.vedbex.com/subdomain-finder/
+- https://github.com/robertdavidgraham/masscan
 
 Misc Web:
 - https://github.com/beefproject/beef
@@ -276,6 +284,7 @@ Registries:
 - https://molfar.com/useful-apps-registers 
 - https://courses.prometheus.org.ua/assets/courseware/v1/399c7f8b0d1b550e5e88ca30a3877a62/asset-v1:Prometheus+OSINT101+2024_T3+type@asset+block/Російські_реєстри__1_.pdf
 - https://leave-russia.org
+- https://public.nazk.gov.ua/
 
 Archives:
 - https://archive.org
@@ -332,6 +341,11 @@ File Recovery:
 - https://www.r-studio.com/index.shtml
 - https://github.com/Lazza/RecuperaBit
 - https://www.shadowexplorer.com/downloads.html
+- https://www.anyrecover.com
+- https://www.softperfect.com/products/filerecovery
+
+File Analysis:
+- https://github.com/cisagov/thorium
 
 Traffic and Network Analysis:
 - https://tools.netsa.cert.org/silk/
@@ -413,6 +427,9 @@ Vulnerability Scanners:
 - https://github.com/andresriancho/w3af
 - https://www.open-scap.org/
 - https://github.com/six2dez/reconftw
+- https://github.com/robertdavidgraham/masscan
+- https://learn.microsoft.com/uk-ua/defender-endpoint/safety-scanner-download
+- https://github.com/CERT-Polska/Artemis
 
 Threat Libraries:
 - https://abuse.ch 
@@ -441,6 +458,7 @@ News:
 - https://therecord.media/news/cybercrime
 - https://news.ycombinator.com/news
 - https://onehack.us
+- https://vx-underground.org/tmp
 
 Analytic materials:
 - https://cip.gov.ua/ua/statics/analitichni-materiali-derzhspeczv-yazku
@@ -459,6 +477,11 @@ Opt out:
 - https://www.optery.com/opt-out-guides/
 - https://prism-break.org/en/
 - https://github.com/The-Osint-Toolbox/Privacy-Opt-Out
+- https://joindeleteme.com
+- https://www.kanary.com
+- https://tweetdelete.net
+- https://blog.withjumbo.com
+- https://redact.dev
 
 Misc Networking:
 - https://www.whatismyip.com
@@ -466,7 +489,7 @@ Misc Networking:
 - https://github.com/tecknicaltom/dsniff
 - https://www.winpcap.org/windump/
 - https://www.netresec.com/?page=NetworkMiner
-- [Wireshark](https://www.wireshark.org), tshark, netstat
+- [Wireshark](https://www.wireshark.org), tshark, netstat, [Arkime](https://arkime.com)
 - https://github.com/byt3bl33d3r/CrackMapExec
 - https://github.com/hrbrmstr/silk/tree/master
 
@@ -483,10 +506,12 @@ Wi-Fi:
 - https://github.com/aircrack-ng/mdk4
 - https://gitlab.com/kalilinux/packages/reaver
 - https://gitlab.com/kalilinux/packages/fern-wifi-cracker
+- https://github.com/mustafashykh/router-scan
 
 Bluetooth:
 - https://gitlab.com/kalilinux/packages/spooftooph
 - https://github.com/securing/gattacker
+- https://github.com/system-linux/FazJammer
 - bluesnarfer
 
 Various Attacks:
@@ -509,6 +534,9 @@ Keyloggers:
 - Spyrix
 - EliteKeylogger
 - KeyGrabber USB
+
+Drainers:
+- https://github.com/Keyrxng/Testnet-wallet-drainer
 
 Payloads:
 - https://payloadhub.com/blogs/payloads
@@ -582,14 +610,14 @@ Maps:
 - https://earthobservatory.nasa.gov/
 - https://firms.modaps.eosdis.nasa.gov/
 - https://www.nationsonline.org/oneworld/map/world_map.htm
-
-Satellites:
-- https://www.sentinel-hub.com/
-
-Maps:
 - https://wikimapia.org
 - https://firms.modaps.eosdis.nasa.gov
 - https://earthkit.app
+- https://cwwp2.dot.ca.gov
+- https://geospy.ai
+
+Satellites:
+- https://www.sentinel-hub.com/
 
 Cell Towers:
 - https://www.satphonecity.com/
@@ -612,6 +640,7 @@ Nature:
 - https://github.com/bellingcat/ShadowFinder
 - https://play.google.com/store/apps/details?id=com.jurfixapp.devibuh&hl=uk
 - https://github.com/VicenteVivan/geo-clip
+- https://www.sunsurveyor.com
 
 Steganography and Metadata:
 - https://steghide.sourceforge.net
@@ -767,10 +796,14 @@ Misc:
 - [CoreRuleSet for ModSecurity](https://github.com/coreruleset/coreruleset)
 - [MAC Vendors](https://macvendors.com)
 - [Ultra Security](https://geekupdates.notion.site/Ultra-Security-10d735bd8a9d8029a00ae64ede03f4ca)
+- Windows Rewrite Disks with Zeroes: cipher /w:F:\Test
+- [Recover TG Account](https://my.telegram.org/auth?to=delete)
+- https://github.com/nvbn/thefuck
 
 # Practical Labs and Education
 - [Interview Questions and Answers](https://globalguideline.com/interviews)
 - https://www.sans.org/posters/
+- https://github.com/Semperis/EntraGoat
 - https://github.com/hackthebox/cyber-apocalypse-2025
 - https://github.com/brootware/awesome-cyber-security-university
 - https://roadmap.sh/cyber-security
@@ -809,6 +842,7 @@ Misc:
 - https://learn.fortiphyd.com
 - https://www.vulnhub.com
 - https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all
+- https://sqlpd.com
 - https://demo.mt.lv
 - https://play.instruqt.com/embed/redhat/tracks/writing-first-playbook
 - https://leetcode.com 
